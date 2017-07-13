@@ -1,0 +1,61 @@
+PT J
+AU Elshove-Bolk, J
+   Ellensen, VS
+   Baatrup, G
+AF Elshove-Bolk, J.
+   Ellensen, V. S.
+   Baatrup, G.
+TI Logistics and outcome in urgent and emergency colorectal surgery
+SO COLORECTAL DISEASE
+LA English
+DT Article
+DE Outcome; logistics; emergency; urgent; colorectal; surgery
+AB Aim Infrastructure-related factors are seldom described in detail in studies on outcome after surgical procedures. We studied patient, procedure, physician and infrastructure characteristics and their effect on outcome at a Norwegian University hospital.
+   Method All patients admitted between 1st January 2002 and 30th June 2003 who underwent urgent or emergency colorectal surgery were extracted from the hospital databases and retrospectively analysed.
+   Results There were 196 patients. The overall complication rate was 39%. Forty-six (24%) patients died during admission after surgery. Those who died were less likely to be operated by a subspecialized colorectal surgeon (17% vs 30%, P = 0.001). The anaesthesiologist was a resident in most of the cases (> 75%) for both those who survived and those who died. Surgery performed out-of-office hours was common in both groups, although the patients who died were more likely to be operated upon at night (28% vs 18%, P = 0.001). The time interval standard from admission to surgery was met in only 84 (43%) patients. Forty-nine (49/196, 25%) procedures were delayed beyond the time requested by the surgeon by more than 120 min (mean 363 min).
+   Conclusion The outcome after emergency colorectal surgery was consistent with the literature but the infrastructure was not optimal. Improvements may be achieved by a focus on decreasing waiting times, abandoning of out-of-office emergency surgery and increasing the involvement of senior staff.
+C1 [Elshove-Bolk, J.] Kongsberg Hosp, Vestre Viken HF, Dept Anaesthesia, N-3602 Kongsberg, Norway.
+   [Ellensen, V. S.; Baatrup, G.] Haukeland Hosp, Dept Surg, N-5021 Bergen, Norway.
+   [Ellensen, V. S.; Baatrup, G.] Univ Bergen, Dept Surg Sci, Bergen, Norway.
+RP Elshove-Bolk, J (reprint author), Kongsberg Hosp, Vestre Viken HF, Dept Anaesthesia, Postbox 10, N-3602 Kongsberg, Norway.
+EM jhwelshove@c2i.net
+FU Department for Research and Quality Control of the Haukeland University
+   Hospital
+FX The authors wish to thank the Department for Research and Quality
+   Control of the Haukeland University Hospital for financial support for
+   secretarial assistance.
+CR Biondo S, 2002, AM J SURG, V183, P256, DOI 10.1016/S0002-9610(02)00780-8
+   Ellensen V, 2009, MORBIDITY MORTALITY
+   Hawkins WJ, 2007, ANN ROY COLL SURG, V89, P760, DOI 10.1308/003588407X209257
+   Lee YM, 2001, J AM COLL SURGEONS, V192, P719, DOI 10.1016/S1072-7515(01)00833-X
+   NCEPOD, 2003, WHO OP WHEN 2
+   NCEPOD, 1995, REP NAT CONF ENQ PER
+   NESPOLI A, 1993, ARCH SURG-CHICAGO, V128, P814
+   Skala K, 2009, INT J COLORECTAL DIS, V24, P311, DOI 10.1007/s00384-008-0603-0
+   Zorcolo L, 2003, DIS COLON RECTUM, V46, P1461, DOI 10.1097/01.DCR.0000095228.91284.AE
+NR 9
+TC 2
+Z9 2
+U1 1
+U2 2
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1462-8910
+J9 COLORECTAL DIS
+JI Colorectal Dis.
+PD OCT
+PY 2010
+VL 12
+IS 10
+BP E255
+EP E259
+DI 10.1111/j.1463-1318.2009.02120.x
+PG 5
+WC Gastroenterology & Hepatology; Surgery
+SC Gastroenterology & Hepatology; Surgery
+GA V23PZ
+UT WOS:000208356000011
+PM 19906061
+ER
+

@@ -1,0 +1,84 @@
+PT J
+AU Kawano, S
+AF Kawano, Shuichi
+TI Semi-Supervised Logistic Discrimination via Labeled Data and Unlabeled
+   Data from Different Sampling Distributions
+SO STATISTICAL ANALYSIS AND DATA MINING
+LA English
+DT Article
+DE covariate shift; EM algorithm; model selection; regularization;
+   semi-supervised learning
+AB This article addresses the problem of classification method based on both labeled and unlabeled data, where we assume that a density function for labeled data is different from that for unlabeled data. We propose a semi-supervised logistic regression model for classification problem along with the technique of covariate shift adaptation. Unknown parameters involved in proposed models are estimated by regularization with expectation and maximization (EM) algorithm. A crucial issue in the modeling process is the choices of adjusted parameters in our semi-supervised logistic models. In order to select the parameters, a model selection criterion is derived from an information-theoretic approach. Some numerical studies show that our modeling procedure performs well in various cases. (C) 2013 Wiley Periodicals, Inc. Statistical Analysis and Data Mining 6: 472-481, 2013
+C1 Osaka Prefecture Univ, Grad Sch Engn, Dept Math Sci, Sakai, Osaka 5998531, Japan.
+RP Kawano, S (reprint author), Osaka Prefecture Univ, Grad Sch Engn, Dept Math Sci, 1-1 Gakuen Cho, Sakai, Osaka 5998531, Japan.
+EM skawano@ms.osakafu-u.ac.jp
+CR Amini MR, 2002, FR ART INT, V77, P390
+   Ando T, 2008, J STAT PLAN INFER, V138, P3616, DOI 10.1016/j.jspi.2005.07.014
+   Basu S, 2004, P 10 ACM SIGKDD INT, P59, DOI DOI 10.1145/1014052.1014062
+   Bennett KP, 1998, P ADV NEURAL INFORM, V10, P368
+   Bickel S, 2009, J MACH LEARN RES, V10, P2137
+   Chakraborty S, 2011, STAT METHODOL, V8, P68, DOI 10.1016/j.stamet.2009.09.002
+   Chapelle O., 2005, 10 INT WORKSH ART IN, P57
+   Chapelle O., 2006, SEMISUPERVISED LEARN
+   Wang S., 2007, ADV NEURAL INFORM PR, V20, P281
+   Dean N, 2006, J ROY STAT SOC C-APP, V55, P1, DOI 10.1111/j.1467-9876.2005.00526.x
+   Hastic T., 2009, ELEMENTS STAT LEARNI
+   Hirose Kei, 2008, Bulletin of Informatics and Cybernetics, V40, P75
+   Huang J., 2007, ADV NEURAL INFORM PR, V19, P601
+   Huber P. J., 2004, ROBUST STAT
+   Irizarry RA, 2001, J AM STAT ASSOC, V96, P303, DOI 10.1198/016214501750332875
+   Jiang J., 2007, ANN M ASS COMP LING, V45, P264
+   Kanamori T, 2009, J MACH LEARN RES, V10, P1391
+   Kawakita M, 2013, MACH LEARN, V91, P189, DOI 10.1007/s10994-013-5329-8
+   Kawano S, 2012, NEURAL PROCESS LETT, V36, P203, DOI 10.1007/s11063-012-9231-3
+   Kawano S, 2011, COMMUN STAT-THEOR M, V40, P2412, DOI 10.1080/03610926.2010.481370
+   Konishi S, 2008, SPRINGER SER STAT, P1, DOI 10.1007/978-0-387-71887-3
+   Konishi S, 1996, BIOMETRIKA, V83, P875, DOI 10.1093/biomet/83.4.875
+   Lafferty J. D., 2007, ADV NEURAL INFORM PR, V21, P801
+   Liang F, 2007, STAT SCI, V22, P189, DOI 10.1214/088342307000000032
+   Miller DJ, 1997, ADV NEUR IN, V9, P571
+   Pan W, 2006, BIOINFORMATICS, V22, P2388, DOI 10.1093/bioinformatics/btl393
+   Ripley B.D., 1996, PATTERN RECOGNITION
+   Shimodaira H, 2000, J STAT PLAN INFER, V90, P227, DOI 10.1016/S0378-3758(00)00115-4
+   SIGILLITO VG, 1989, J HOPKINS APL TECH D, V10, P262
+   Sokolovska N., 2008, P 25 INT C MACH LEAR, P984, DOI 10.1145/1390156.1390280
+   Sugiyama M, 2012, DENSITY RATIO ESTIMATION IN MACHINE LEARNING, P1, DOI 10.1017/CBO9781139035613
+   Sugiyama M, 2012, ADAPT COMPUT MACH LE, P1
+   Sugiyama M, 2008, ANN I STAT MATH, V60, P699, DOI 10.1007/s10463-008-0197-x
+   Vapnik V. N., 1998, STAT LEARNING THEORY, DOI Wiley-Interscience
+   Sindhwani V., 2006, P 29 ANN INT ACM SIG, P477, DOI 10.1145/1148170.1148253
+   Vittaut JN, 2002, LECT NOTES ARTIF INT, V2430, P468
+   Wu D., 2009, P 2009 C EMP METH NA, P1523
+   Zadrozny B, 2004, ICML, V2004, P114
+   Zhou DY, 2004, ADV NEUR IN, V16, P321
+   Zhu X., 2008, 1530 U WISC MAD
+   Zou H, 2007, CONTEMP MATH, V443, P165
+NR 41
+TC 0
+Z9 0
+U1 0
+U2 1
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1932-1864
+EI 1932-1872
+J9 STAT ANAL DATA MIN
+JI Stat. Anal. Data Min.
+PD DEC
+PY 2013
+VL 6
+IS 6
+SI SI
+BP 472
+EP 481
+DI 10.1002/sam.11204
+PG 10
+WC Computer Science, Artificial Intelligence; Computer Science,
+   Interdisciplinary Applications; Statistics & Probability
+SC Computer Science; Mathematics
+GA V41CZ
+UT WOS:000209525600003
+ER
+
+

@@ -1,0 +1,1 @@
+generalize logistic$$equation superdiffusive$$type drive homogeneous nonlinear differential$$operator incorporate laplacian differential$$operator generalize curvature differential$$operator variational couple truncation comparison technique prove bifurcation type theorem dependence positive$$parameter lambda

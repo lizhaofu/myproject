@@ -1,0 +1,1 @@
+dynamic$$equilibrium local$$stability chaos bifurcation continuous dynamical$$system logistic$$equation complex variable existence uniqueness uniformly lyapunov stable prove

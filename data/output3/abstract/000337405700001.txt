@@ -1,0 +1,1 @@
+free$$boundary reaction diffusion equation modeling spread biological$$chemical species model free$$boundary spread front species asymptotic$$behavior bound trichotomy spread free$$boundary tend infinity converge stationary$$infinity transition free$$boundary stay bound interval converge stationary positive compact vanish free$$boundary converge tend finite

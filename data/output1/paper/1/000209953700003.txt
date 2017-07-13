@@ -1,0 +1,66 @@
+PT J
+AU Sutrisnowati, RA
+   Bae, H
+   Park, J
+AF Sutrisnowati, Riska Asriana
+   Bae, Hyerim
+   Park, Jaehun
+TI BAYESIAN NETWORK LEARNING FOR PORT-LOGISTICS-PROCESS KNOWLEDGE DISCOVERY
+SO INTERNATIONAL JOURNAL OF INDUSTRIAL ENGINEERING-THEORY APPLICATIONS AND
+   PRACTICE
+LA English
+DT Article
+DE Bayesian network learning; mutual information; event logs
+AB A Bayesian network is a powerful tool for various analyses (e.g. inference analysis, sensitivity analysis, evidence propagation, etc.); however, it is first necessary to obtain the Bayesian network structure of a given dataset, and this, an NP-hard problem, is not an easy task. However, an enhancement approach has been followed in order to learn Bayesian network from event logs. In the present study, a genetic-algorithm-based method for generation of a Bayesian network is developed and compared with a dynamic programming method. We herein also present the useful knowledge found using our inference method.
+C1 [Sutrisnowati, Riska Asriana; Bae, Hyerim] Pusan Natl Univ, Pusan, South Korea.
+   [Park, Jaehun] Worcester Polytech Inst, Worcester, MA 01609 USA.
+RP Sutrisnowati, RA (reprint author), Pusan Natl Univ, Pusan, South Korea.
+FU National Research Foundation of Korea (NRF) grant - Korean government
+   (MEST) [2012R1A1A2008335]
+FX This research was supported by a National Research Foundation of Korea
+   (NRF) grant funded by the Korean government (MEST) (No.
+   2012R1A1A2008335).
+CR Acid S, 2005, MACH LEARN, V59, P213
+   Chickering D., 1994, LEARNING BAYESIAN NE, DOI 10.1.1.72.2070
+   de Campos LM, 2006, J MACH LEARN RES, V7, P2149
+   De Weerdt J., 2012, P IEEE C EV COMP CEC, P1
+   Goedertier S., 2007, P 5 INT C BUS PROC M, P42
+   Gunther C. W., 2007, P 5 INT C BUS PROC M, P328
+   Lai MC, 2012, INT J IND ENG-THEORY, V19, P33
+   Lee D., 2013, ICIC EXPRESS LETT, V7, P1913
+   Modrak V, 2012, INT J IND ENG-THEORY, V19, P289
+   Pan YC, 2012, INT J IND ENG-THEORY, V19, P101
+   Process Mining Group Math& CS department Eindhoven University of Technology ProM, 2009, PROCESS MINING RES T
+   Rodrigue J.-P., 2013, GEOGRAPHY TRANSPORT
+   Song M, 2009, LECT NOTES BUS INF, V17, P109
+   Sutrisnowati R. A., 2013, P 17 INT C IND ENG T, P730
+   Sutrisnowati R. A., 2012, P 2012 INT C LOG MAR, P97
+   van der Aalst WMP, 2011, PROCESS MINING: DISCOVERY, CONFORMANCE AND ENHANCEMENT OF BUSINESS PROCESSES, P1, DOI 10.1007/978-3-642-19345-3
+   Weijters A. J. M. M., 2006, TU EINDHOVEN TECH RE, V166, P1
+   Yahya B. N., 2012, P KOR OP RES MAN SCI
+   Yun WY, 2013, INT J IND ENG-THEORY, V20, P12
+   Zhou JF, 2012, INT J IND ENG-THEORY, V19, P359
+   Zhu CJ, 2012, INT J IND ENG-THEORY, V19, P341
+NR 21
+TC 0
+Z9 0
+U1 0
+U2 0
+PU UNIV CINCINNATI INDUSTRIAL ENGINEERING
+PI CINCINNATI
+PA UNIV CINCINNATI, CINCINNATI, OH 45221-0116 USA
+SN 1943-670X
+J9 INT J IND ENG-THEORY
+JI Int. J. Ind. Eng.-Theory Appl. Pract.
+PY 2014
+VL 21
+IS 3
+BP 141
+EP 152
+PG 12
+WC Engineering, Industrial; Engineering, Manufacturing
+SC Engineering
+GA V47LQ
+UT WOS:000209953700003
+ER
+

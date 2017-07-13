@@ -1,0 +1,1 @@
+distribution call logistic$$weibull distribution hlgwd compose logistic cumulative$$distribution function function eta weibull eta survival function distribution datum class distribution hlgwd effectively lifetime datum baye estimation sample baye prediction observable hlgwd compute

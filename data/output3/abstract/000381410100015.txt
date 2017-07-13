@@ -1,0 +1,1 @@
+reaction diffusion equation nonlinear$$source model system biology technique type equation dimension nonclassical$$symmetry relationship nonlinear$$diffusion coefficient nonlinear$$reaction term kirchhoff variable exponential$$growth decay satisfy linear$$helmholtz equation space dimension parameter quadratic cubic$$reaction term

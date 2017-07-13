@@ -1,0 +1,1 @@
+chemotaxis system graphic convex smooth bound domain omega endowed homogeneous$$neumann boundary condition sort logistic$$function obey growth technical restriction definition deal existence nonnegative datum flux boundary condition reserve

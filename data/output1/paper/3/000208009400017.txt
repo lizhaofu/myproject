@@ -1,0 +1,43 @@
+PT J
+AU Villalobos, JR
+   Sanchez, O
+   Maltz, A
+   Ahumada, O
+AF Villalobos, J. Rene
+   Sanchez, Octavio
+   Maltz, Arnold
+   Ahumada, Omar
+TI INCENTIVES OF AN ALTERNATE ROUTE Finding the logistics capacity of a
+   multimodal corridor
+SO INDUSTRIAL ENGINEER
+LA English
+DT Article
+C1 [Villalobos, J. Rene; Sanchez, Octavio] Arizona State Univ, Dept Ind Engn, Tempe, AZ 85287 USA.
+   [Maltz, Arnold] Arizona State Univ, Supply Chain Management Dept, Tempe, AZ 85287 USA.
+RP Villalobos, JR (reprint author), Arizona State Univ, Dept Ind Engn, Tempe, AZ 85287 USA.
+RI Villalobos, Jesus Rene/F-8010-2010
+OI Villalobos, Jesus Rene/0000-0003-2530-9760
+NR 0
+TC 1
+Z9 1
+U1 0
+U2 0
+PU INST INDUSTRIAL ENGINEERS
+PI NORCROSS
+PA 3577 PARKWAY LANE, STE 200, NORCROSS, GA 30092 USA
+SN 1542-894X
+J9 IND ENG
+JI Ind. Eng
+PD JUL
+PY 2009
+VL 41
+IS 7
+BP 39
+EP 43
+PG 5
+WC Engineering, Industrial
+SC Engineering
+GA V18MR
+UT WOS:000208009400017
+ER
+

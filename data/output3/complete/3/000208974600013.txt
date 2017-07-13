@@ -1,0 +1,57 @@
+PT J
+AU Li, YK
+   Wang, GQ
+   Wang, HM
+AF Li, Yongkun
+   Wang, Guoqiao
+   Wang, Huimei
+TI POSITIVE PERIODIC SOLUTIONS OF NEUTRAL LOGISTIC EQUATIONS WITH
+   DISTRIBUTED DELAYS
+SO ELECTRONIC JOURNAL OF DIFFERENTIAL EQUATIONS
+LA English
+DT Article
+DE Positive periodic solution; neutral delay logistic equation;
+   strict-set-contraction
+AB Using a fixed point theorem of strict-set-contraction, we establish criteria for the existence of positive periodic solutions for the periodic neutral logistic equation, with distributed delays,
+   x'(t) = x(t)[a(t)-Sigma(n)(i=1) a(i)(t)integral(0)(-Ti) x(t+theta)d mu(i)(theta)-Sigma(m)(j=1) b(j)(t) integral(0)(-(T) over capj) x'(t+theta)d nu(j)(theta)],
+   where the coefficients a, a(i), b(j) are continuous and periodic functions, with the same period. The values T-i, (T) over cap (j) are positive, and the functions mu(i), nu(j) are non-decreasing with integral(0)(-Ti) d mu(i) = 1 and integral(0)(-(T) over capj) d nu(j) = 1.
+C1 [Li, Yongkun; Wang, Guoqiao; Wang, Huimei] Yunnan Univ, Dept Math, Kunming 650091, Yunnan, Peoples R China.
+RP Li, YK (reprint author), Yunnan Univ, Dept Math, Kunming 650091, Yunnan, Peoples R China.
+EM yklie@ynu.edu.cn; wgq81@126.com; wanghmei@163.com
+FU National Natural Sciences Foundation China [10361006]; Natural Sciences
+   Foundation of Yunnan Province [2003A0001M]
+FX Supported by grants 10361006 from the National Natural Sciences
+   Foundation China, and 2003A0001M from the the Natural Sciences
+   Foundation of Yunnan Province.
+CR CAC NP, 1979, J MATH ANAL APPL, V71, P547, DOI 10.1016/0022-247X(79)90208-7
+   Gaines R. E., 1977, LECT NOTES MATH, V568
+   GOPALSAMY K, 1991, GLASGOW MATH J, V33, P281
+   Gopalsamy K., 1988, DYNAMICS STABILITY S, V2, P183, DOI 10.1080/02681118808806037
+   Guo D., 1984, ADV MATH, V13, P294
+   KUANG Y, 1991, J MATH ANAL APPL, V156, P293, DOI 10.1016/0022-247X(91)90398-J
+   Kuang Y., 1993, DELAY DIFFERENTIAL E
+   Lu SP, 2004, APPL MATH COMPUT, V153, P885, DOI 10.1016/S0096-3003(03)00685-4
+   Lu SP, 2003, J MATH ANAL APPL, V280, P321, DOI 10.1016/S0022-247X(03)00049-0
+   Pielou E., 1977, MATH ECOLOGY
+   Yang ZH, 2005, J COMPUT APPL MATH, V174, P179, DOI 10.1016/j.cam.2004.04.007
+NR 11
+TC 0
+Z9 0
+U1 0
+U2 0
+PU TEXAS STATE UNIV
+PI SAN MARCOS
+PA 601 UNIVERSTITY DRIVE, SAN MARCOS, TX 78666 USA
+SN 1072-6691
+J9 ELECTRON J DIFFER EQ
+JI Electron. J. Differ. Equ.
+PY 2007
+AR 13
+PG 10
+WC Mathematics, Applied; Mathematics
+SC Mathematics
+GA V32TX
+UT WOS:000208974600013
+ER
+
+

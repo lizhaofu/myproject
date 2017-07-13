@@ -1,0 +1,1 @@
+discrete$$model car follow behaviour model express form logistic$$map multiple$$control parameter logistic$$map control parameter relevant$$feigenbaum diagram behaviour lyapunov exponent divergent$$behaviour chain vehicle reserve

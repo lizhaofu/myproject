@@ -1,0 +1,1 @@
+hopf bifurcation predator prey system theta logistic$$growth prey refuge ode undergo hopf bifurcation positive$$equilibrium prey refuge theta pass critical$$delay bifurcation parameter dde normal$$form theory center manifold explicit formula derive direction bifurcation stability bifurcate periodic numerical simulation carry

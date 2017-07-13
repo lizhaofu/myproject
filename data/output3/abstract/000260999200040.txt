@@ -1,0 +1,1 @@
+behavior nonlinear$$age dependent$$population model logistic$$term periodic vital prove exist periodic nonnegative$$model trivial$$distribution population tend trivial nonnegative periodic exist numerical$$algorithm approximate correspond datum trivial nonnegative periodic$$model numerical test reserve

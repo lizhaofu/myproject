@@ -1,0 +1,1 @@
+concerned$$system nonlinear$$heat quation constraint couple navier stoke equation dimensional domain sobajima tsuzuki yokota prove existence uniqueness system heat equation diffusion term delta theta theta temperature existence laplace operator delta replace laplace operator delta

@@ -1,0 +1,1 @@
+nonlinear discrete logistic$$model delay characteristic$$equation linearize system positive$$equilibrium polynomial$$equation involve term condition ensure asymptotic$$stability positive$$equilibrium existence neimark sacker bifurcation respect parameter model base bifurcation theory neimark sacker bifurcation direction stability bifurcate finally numerical simulation theoretical

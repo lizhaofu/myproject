@@ -1,0 +1,1 @@
+convergence period logistic cubic map logistic$$map relaxation transcritical$$bifurcation cubic$$map pitchfork bifurcation confirm convergence logistic cubic map region close exponentially fast relaxation law exponent bifurcation exponent universal depend type bifurcation nonlinearity map

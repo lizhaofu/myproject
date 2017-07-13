@@ -1,0 +1,49 @@
+PT J
+AU Nikolaou, M
+AF Nikolaou, Michael
+TI Optimizing the logistics of compressed natural gas transportation by
+   marine vessels
+SO JOURNAL OF NATURAL GAS SCIENCE AND ENGINEERING
+LA English
+DT Article
+DE Compressed natural gas; Liquefied natural gas; Stranded gas;
+   Optimization
+AB Compressed natural gas (CNG) has been recently proposed as a potentially economical alternative to liquefied natural gas (LNG) for marine transportation of relatively modest amounts of natural gas over short distances. Because the main capital expenditure in a CNG project is on marine transport vessels, careful design of CNG transport fleets and compatible distribution plans is important. In this work, a structured optimization framework is developed to uncover trends and patterns for optimal selection of the number and capacities of CNG vessels along with corresponding schedules for CNG distribution. An important conclusion from this analysis is that medium-capacity vessels may result in lower capacity for an entire fleet, thus offering significant economical advantages. A case study of potential CNG distribution in the Caribbean illustrates the proposed approach. (C) 2010 Elsevier B.V. All rights reserved.
+C1 Univ Houston, Chem & Biomol Engn Dept, Houston, TX 77204 USA.
+RP Nikolaou, M (reprint author), Univ Houston, Chem & Biomol Engn Dept, Houston, TX 77204 USA.
+EM Nikolaou@uh.edu
+CR [Anonymous], 2007, EN STAT EL CONS
+   Dunlop J.P., 2008, XGAS
+   Energy Information Administration, 2008, COUNTR AN BRIEFS CAR
+   Wang X., 2008, RUSS OIL GAS TECHN C
+   Marongiu-Porcu M., 2009, OFFSH TECHN C OTC 19
+   UN Data, 2005, TOT EL
+   Wang X., 2008, INT PETR TECHN C IPT
+   Wang X., 2009, ADV NATURAL GAS ENG
+   Wood D., 2008, 87 ANN CONV GPA GRAP
+NR 9
+TC 3
+Z9 4
+U1 1
+U2 7
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1875-5100
+J9 J NAT GAS SCI ENG
+JI J. Nat. Gas Sci. Eng.
+PD MAR
+PY 2010
+VL 2
+IS 1
+BP 1
+EP 20
+DI 10.1016/j.jngse.2010.02.001
+PG 20
+WC Energy & Fuels; Engineering, Chemical
+SC Energy & Fuels; Engineering
+GA V28KE
+UT WOS:000208678900001
+ER
+
+

@@ -1,0 +1,1 @@
+logistic$$equation delay nonlocal dynamics condition existence asymptotic relaxation cycle local dynamics behavior original$$equation special family nonlinear$$boundary parabolic$$degenerate parabolic$$type

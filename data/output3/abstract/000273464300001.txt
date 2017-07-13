@@ -1,0 +1,1 @@
+model dynamics infectious$$disease account environmental$$variability form gaussian white$$noise disease transmission disease probability distribution proportion infected animal mode variance explicitly copyright dejun fan

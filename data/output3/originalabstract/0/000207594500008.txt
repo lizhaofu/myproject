@@ -1,0 +1,1 @@
+By employing a fixed point theorem in cones, this paper investigates the existence of almost periodic solutions for an impulsive logistic equation with infinite delay. A set of sufficient conditions on the existence of almost periodic solutions of the equation is obtained.

@@ -1,0 +1,76 @@
+PT J
+AU Smirlis, YG
+   Zeimpekis, V
+   Kaimakamis, G
+AF Smirlis, Y. G.
+   Zeimpekis, V.
+   Kaimakamis, G.
+TI Data envelopment analysis models to support the selection of vehicle
+   routing software for city logistics operations
+SO OPERATIONAL RESEARCH
+LA English
+DT Article
+DE City logistics; Vehicle routing; Data envelopment analysis; Ordinal data
+AB In city logistics operations, vehicle routing is critical for successful freight delivery execution. Optimal routing, however, may not be performed when manual routing methods are implemented, due to their inability to cope with a number of delivery constraints such as hard delivery time windows. The use of an automated vehicle routing software by freight carriers, is usually the preferred option, as it may increase customer service and reduce operational costs. The evaluation and selection of automated routing software has become increasingly difficult for decision makers due to a large number of software products available and the great variety of features and capabilities they offer. This paper first develops a data model to capture all the significant attributes that characterize a routing software. The attributes are measured with ordinal data as they mainly express qualitative issues. Then, it presents a data envelopment analysis (DEA) model that aids the selection procedure by estimating the index Total Performance/Price that expresses the commonly used "value for money'' criterion. This index is able to identify those routing software that are considered as best buys. Moreover, this paper proposes a DEA model to distinguish the best alternative from the "best buys'' cases. A case study illustrates the proposed methodology.
+C1 [Smirlis, Y. G.] Univ Piraeus, Piraeus 18524, Greece.
+   [Zeimpekis, V.] Univ Aegean, Dept Financial & Management Engn, Chios 82100, Greece.
+   [Kaimakamis, G.] Hellenic Army Acad, Athens 16673, Greece.
+RP Smirlis, YG (reprint author), Univ Piraeus, 80 Karaoli,Dimitriou St, Piraeus 18524, Greece.
+EM smirlis@unipi.gr; vzeimp@fme.aegean.gr; gmiamis@gmail.com
+OI Kaimakamis, George/0000-0002-7368-3442
+CR Adler N, 2002, EUR J OPER RES, V140, P249, DOI 10.1016/S0377-2217(02)00068-1
+   Ahn H, 1997, EUR J OPER RES, V100, P266, DOI 10.1016/S0377-2217(96)00289-5
+   Ammin RG, 2007, COMPUT IND ENG, V52, P71
+   Ballou R. H., 1999, BUSINESS LOGISTICS M
+   Brown PA, 1972, QUANTIFIED MODEL FAC, P1
+   CHARNES A, 1978, EUR J OPER RES, V2, P429, DOI 10.1016/0377-2217(78)90138-8
+   Cook WD, 2006, EUR J OPER RES, V174, P1021, DOI 10.1016/j.ejor.2005.01.063
+   Cook WD, 1996, J OPER RES SOC, V47, P945, DOI 10.1057/jors.1996.120
+   COOK WD, 1993, J OPER RES SOC, V44, P133, DOI 10.1057/jors.1993.25
+   COOK WD, 1994, EUR J OPER RES, V78, P367, DOI 10.1016/0377-2217(94)90046-9
+   Cordeau J. F., 2001, SIAM MONOGRAPHS DISC, P157
+   Despotis DK, 2002, EUR J OPER RES, V140, P24, DOI 10.1016/S0377-2217(01)00200-4
+   DYSON RG, 1988, J OPER RES SOC, V39, P563
+   Fleischmann B, 2002, DYNAMIC VEHICLE ROUT
+   Gendreau M, 1998, FLEET MANAGEMENT AND LOGISTICS, P115
+   Giaglis G. M., 2004, INT J PHYS DISTRIB, V34, P749, DOI DOI 10.1108/09600030410567504
+   Hall RW, 2008, OR MS TODAY MAGAZINE
+   Ioannou G, 2003, OMEGA-INT J MANAGE S, V31, P41, DOI 10.1016/S0305-0483(02)00064-6
+   Kontio J., 1995, 20 ANN SOFTW ENG WOR
+   Min H, 1998, EUR J OPER RES, V108, P1, DOI 10.1016/S0377-2217(97)00172-0
+   Power D. J., 2002, DECISION SUPPORT SYS
+   Psaraftis HN, 1995, ANN OPER RES, V61, P143, DOI 10.1007/BF02098286
+   Sarrico CS, 2004, EUR J OPER RES, V159, P17, DOI 10.1016/S0377-2217(03)00402-8
+   Seydel J, 2006, IND MANAGE DATA SYST, V106, P81, DOI 10.1108/02635570610641004
+   Smirlis YG, 2004, INT J INF TECH DECIS, V3, P167, DOI 10.1142/S0219622004000970
+   Wang WK, 2005, EXPERT SYST APPL, V29, P901, DOI 10.1016/j.eswa.2005.06.017
+   Zeimpekis V, 2007, OPER RES COMPUT SCI, V38, P197
+   Zeimpekis V., 2007, International Journal of Integrated Supply Management, V3, DOI 10.1504/IJISM.2007.012628
+   Zeimpekis V., 2006, J ENTERPRISE INFORM, V19, P367, DOI 10.1108/17410390610678304
+   Zhu J, 2003, EUR J OPER RES, V144, P513, DOI 10.1016/S0377-2217(01)00392-7
+NR 30
+TC 1
+Z9 1
+U1 2
+U2 14
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 1109-2858
+EI 1866-1505
+J9 OPER RES-GER
+JI Oper. Res.
+PD NOV
+PY 2012
+VL 12
+IS 3
+BP 399
+EP 420
+DI 10.1007/s12351-010-0100-4
+PG 22
+WC Operations Research & Management Science
+SC Operations Research & Management Science
+GA V31HK
+UT WOS:000208874500007
+ER
+

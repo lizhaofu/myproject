@@ -1,0 +1,67 @@
+PT J
+AU Kuhnt, S
+   Wenzel, S
+AF Kuhnt, S.
+   Wenzel, S.
+TI Information acquisition for modelling and simulation of logistics
+   networks
+SO JOURNAL OF SIMULATION
+LA English
+DT Article
+DE information acquisition; procedure model; logistics; verification and
+   validation; statistical data analysis
+AB Design, organisation and management of Large Logistics Networks (LLN) usually involve model-based analyses of the networks. The usefulness of such an analysis highly depends on the quality of the input data, which of course should be best possible to capture the real circumstances. In this paper, an advanced procedure model for a structured, goal- and task-oriented information and data acquisition for the model-based analyses of LLN is proposed. This procedure model differs from other approaches by focussing on information acquisition rather than solely on data acquisition, and by employing a consequent verification and validation concept. All steps of the procedure model-Goal Setting, Information Identification, Preparation of Information and Data Collection, Information and Data Collection, Data Recording, Data Structuring, Statistical Data Analysis, Data Usability Test-are described and exemplified for a network of air-freight-flow.
+C1 [Kuhnt, S.] Tech Univ Dortmund, D-44221 Dortmund, Germany.
+   [Wenzel, S.] Univ Kassel, D-34125 Kassel, Germany.
+RP Kuhnt, S (reprint author), Tech Univ Dortmund, D-44221 Dortmund, Germany.
+FU Deutsche Forschungsgemeinschaft as part of the Collaborative Research
+   Centre 'Modelling of Large Logistics Networks' [SFB 559]
+FX This work has been supported by the Deutsche Forschungsgemeinschaft as
+   part of the Collaborative Research Centre 'Modelling of Large Logistics
+   Networks' (SFB 559).
+CR Balci O, 1998, HANDBOOK OF SIMULATION, P335, DOI 10.1002/9780470172445.ch10
+   Baum N, 2003, KOOPERATION A5 M9 SI
+   Bernhard J, 2005, SIMULATION IN WIDER EUROPE, P37
+   Bernhard J, 2005, MAGDEBURGER SCHRIFTE, V21, P3
+   [Anonymous], 1995, 443001 DIN
+   Eppler M J, 2006, MANAGING INFORM QUAL
+   Fender T, 2003, STAT DATENMANAGEMENT
+   Homberg K, 2007, BEWERTUNG KATEGORISI
+   Homberg K, 2007, BASISPROZESSE MODELL
+   Kaufman L, FINDING GROUPS DATA
+   Law AM, 2007, SIMULATION MODELING
+   Nonaka I., 1995, KNOWLEDGE CREATING C
+   Rabe M., 2001, HANDLUNGSANLEITUNG S
+   Rabe M, 2008, 2008 WINTER SIMULATION CONFERENCE, VOLS 1-5, P1717, DOI 10.1109/WSC.2008.4736258
+   Robinson S, 2004, SIMULATION PRACTICE
+   Shannon C. E., 1949, MATH THEORY COMMUNIC
+   Sieke H, 2005, SIMULATIONSTECHNIQUE, P248
+   [Anonymous], 2010, 3633 VDI 1
+   VDI, 2000, 3633 VDI 1
+   Wenzel S., 2003, P 2003 WINT SIM C, V1, P729
+NR 20
+TC 6
+Z9 6
+U1 1
+U2 3
+PU PALGRAVE MACMILLAN LTD
+PI BASINGSTOKE
+PA BRUNEL RD BLDG, HOUNDMILLS, BASINGSTOKE RG21 6XS, HANTS, ENGLAND
+SN 1747-7778
+J9 J SIMUL
+JI J. Simul.
+PD JUN
+PY 2010
+VL 4
+IS 2
+BP 109
+EP 115
+DI 10.1057/jos.2009.9
+PG 7
+WC Computer Science, Interdisciplinary Applications; Operations Research &
+   Management Science
+SC Computer Science; Operations Research & Management Science
+GA V29GB
+UT WOS:000208735800003
+ER
+

@@ -1,0 +1,1 @@
+species periodic logistic$$type dispersal system patchy$$environment impulse inequality estimation technique sufficient condition integrable$$form permanence extinction system lyapunov function condition existence unique globally attractively positive periodic establish numerical$$validity model

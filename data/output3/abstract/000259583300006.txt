@@ -1,0 +1,1 @@
+dynamical$$behavior vehicle sequence traffic light control logistic$$map shift traffic light logistic$$map vary signal signal nonlinear dynamic$$model vehicular$$motion nonlinear$$map logistic$$map vehicle exhibit complex behavior vary cycle logistic$$map parameter dependence arrival cycle smoother smoother dependence vehicular$$motion parameter clarify reserve

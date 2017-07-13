@@ -1,0 +1,43 @@
+PT J
+AU Takeuchi, S
+AF Takeuchi, Shingo
+TI COINCIDENCE SETS IN SEMILINEAR ELLIPTIC PROBLEMS OF LOGISTIC TYPE
+SO DIFFERENTIAL AND INTEGRAL EQUATIONS
+LA English
+DT Article
+AB This paper concerns the formation of a coincidence set for the positive solution of an equation of the type: -epsilon Delta u = u vertical bar a(x) - u vertical bar(theta)sgn(a(x) - u), where epsilon is a positive parameter, 0 < theta < 1 and a(x) is a positive continuous function. Suppose that Delta a = 0 in an open subset Omega(0) subset of Omega. The positive solution converges to a(x) uniformly on any compact subset of Omega as epsilon -> 0. It is proved that when epsilon is sufficiently small, the solution coincides with a(x) somewhere in Omega(0) and the coincidence set converges to Omega(0) in the Hausdorff distance with the order of root epsilon as epsilon -> 0. The proof relies on the comparison principle with suitable local comparison functions.
+C1 Kogakuin Univ, Dept Gen Educ, Hachioji, Tokyo 1920015, Japan.
+RP Takeuchi, S (reprint author), Kogakuin Univ, Dept Gen Educ, 2665-1 Nakano Machi, Hachioji, Tokyo 1920015, Japan.
+CR ANGENENT SB, 1985, MATH ANN, V272, P129, DOI 10.1007/BF01455933
+   BREZIS H, 1986, NONLINEAR ANAL-THEOR, V10, P55, DOI 10.1016/0362-546X(86)90011-8
+   BROWN KJ, 1980, J MATH ANAL APPL, V75, P112, DOI 10.1016/0022-247X(80)90309-1
+   Deuel J., 1974, P ROY SOC EDINB A, V74, P49
+   Diaz J.I., 1985, RES NOTES MATH, V106
+   GUEDDA M, 1988, T AM MATH SOC, V310, P419, DOI 10.2307/2001132
+   KAMIN S, 1993, P AM MATH SOC, V118, P1079, DOI 10.2307/2160060
+   KATO T, 1972, ISRAEL J MATH, V13, P135, DOI 10.1007/BF02760233
+NR 8
+TC 3
+Z9 3
+U1 0
+U2 0
+PU KHAYYAM PUBL CO INC
+PI ATHENS
+PA PO BOX 429, ATHENS, OH 45701 USA
+SN 0893-4983
+J9 DIFFER INTEGRAL EQU
+JI Differ. Integral Equ.
+PD SEP
+PY 2007
+VL 20
+IS 9
+BP 1075
+EP 1080
+PG 6
+WC Mathematics, Applied; Mathematics
+SC Mathematics
+GA V28ZY
+UT WOS:000208719900007
+ER
+
+

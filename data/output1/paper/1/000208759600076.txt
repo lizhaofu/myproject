@@ -1,0 +1,58 @@
+PT J
+AU DeLoughery, TG
+AF DeLoughery, Thomas G.
+TI Logistics of Massive Transfusions
+SO HEMATOLOGY-AMERICAN SOCIETY HEMATOLOGY EDUCATION PROGRAM
+LA English
+DT Article
+AB Care of the patient with massive bleeding involves more than aggressive surgery and infusion of large amounts of blood products. The proper management of massive transfusions-whether they are in trauma patients or other bleeding patients-requires coordination of the personnel in the surgical suite or the emergency department, the blood bank, and laboratory.
+C1 [DeLoughery, Thomas G.] Oregon Hlth & Sci Univ, Div Hematol Oncol, Portland, OR 97201 USA.
+   [DeLoughery, Thomas G.] Oregon Hlth & Sci Univ, Div Lab Med, Portland, OR 97201 USA.
+RP DeLoughery, TG (reprint author), Oregon Hlth & Sci Univ, Div Hematol Oncol, 3181 SW Sam Jackson Pk Rd, Portland, OR 97201 USA.
+EM delought@ohsu.edu
+CR Avidan MS, 2004, BRIT J ANAESTH, V92, P178, DOI 10.1093/bja/aeh037
+   Burtelow M, 2007, TRANSFUSION, V47, P1564, DOI 10.1111/j.1537-2995.2007.01404.x
+   Cotton BA, 2009, J TRAUMA, V67, P1004, DOI 10.1097/TA.0b013e3181bcb2a8
+   Cotton BA, 2009, J TRAUMA, V66, P41, DOI 10.1097/TA.0b013e31819313bb
+   DeLoughery TG, 2004, CRIT CARE CLIN, V20, P13, DOI 10.1016/S0749-0704(03)00089-7
+   Dente CJ, 2009, J TRAUMA, V66, P1616, DOI 10.1097/TA.0b013e3181a59ad5
+   Eder A F, 2007, Immunohematology, V23, P150
+   Enriquez LJ, 2009, BRIT J ANAESTH, V103, pi14
+   Johansson PI, 2007, ISBT SCI SERIES, V2, P159, DOI 10.1111/j.1751-2824.2007.00084.x
+   Johansson PI, 2009, SCAND J TRAUMA RESUS, V17, DOI 10.1186/1757-7241-17-45
+   Johansson PI, 2010, TRANSFUSION, V50, P701, DOI 10.1111/j.1537-2995.2009.02458.x
+   Kashuk JL, 2009, J SURG RES, V156, P133, DOI 10.1016/j.jss.2009.03.046
+   Malone DL, 2006, J TRAUMA, V60, pS91, DOI 10.1097/01.ta.0000199549.80731.e6
+   Murray D, 1999, TRANSFUSION, V39, P56, DOI 10.1046/j.1537-2995.1999.39199116895.x
+   O'Keeffe T, 2008, ARCH SURG-CHICAGO, V143, P686, DOI 10.1001/archsurg.143.7.686
+   Riskin DJ, 2009, J AM COLL SURGEONS, V209, P198, DOI 10.1016/j.jamcollsurg.2009.04.016
+   Schuster KM, 2010, TRANSFUSION, V50, P1545, DOI 10.1111/j.1537-2995.2010.02587.x
+   Scott E, 2009, TRANSFUSION, V49, P1584, DOI 10.1111/j.1537-2995.2009.02198.x
+   Stahel PF, 2009, CURR OPIN ANESTHESIO, V22, P289, DOI 10.1097/ACO.0b013e32832678ed
+   Wehrli G, 2009, TRANSFUSION, V49, P2625, DOI 10.1111/j.1537-2995.2009.02342.x
+   Whitten CW, 2000, ANESTHESIOLOGY, V92, P1223
+   Yazer MH, 2007, TRANSFUSION, V47, P2197, DOI 10.1111/j.1537-2995.2007.01446.x
+   Yuan S, 2009, TRANSFUSION, V49, P1045, DOI 10.1111/j.1537-2995.2009.02150.x
+NR 23
+TC 6
+Z9 6
+U1 0
+U2 1
+PU AMER SOC HEMATOLOGY
+PI WASHINGTON
+PA 2021 L ST NW, SUITE 900, WASHINGTON, DC 20036 USA
+SN 1520-4391
+J9 HEMATOL-AM SOC HEMAT
+JI Hematol.-Am. Soc. Hematol. Educ. Program
+PD DEC
+PY 2010
+BP 470
+EP 473
+DI 10.1182/asheducation-2010.1.470
+PG 4
+WC Education, Scientific Disciplines; Hematology
+SC Education & Educational Research; Hematology
+GA V29PF
+UT WOS:000208759600076
+ER
+

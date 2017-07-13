@@ -1,0 +1,65 @@
+PT J
+AU Sourirajan, K
+   Centonze, P
+   Helander, ME
+   Katircioglu, K
+   Ben-Hamida, M
+   Boucher, C
+AF Sourirajan, K.
+   Centonze, P.
+   Helander, M. E.
+   Katircioglu, K.
+   Ben-Hamida, M.
+   Boucher, C.
+TI Carbon management in assembly manufacturing logistics
+SO IBM JOURNAL OF RESEARCH AND DEVELOPMENT
+LA English
+DT Article
+AB In this paper, we present the IBM Carbon Analyzer Tool, a software solution that models and quantifies carbon emissions and explores ways to reduce emissions through advanced analytics. The tool is designed to manage carbon emissions associated with the support logistics for an assembly manufacturing operation. The tool has four analytical modules. A shipment analysis module calculates carbon emissions from transportation activities and analyzes opportunities for reducing emissions by changing fuel types of vehicles and using larger vehicles that permit consolidated shipments. A sourcing analysis module compares sourcing alternatives, including changes to supplier locations, routing of shipments, frequency of orders, and transportation modes. A scenario analysis module explores various consolidation policies to minimize transportation, inventory, and carbon costs, subject to inventory availability requirements. A sensitivity analysis module quantifies the effects of changes to uncontrollable and uncertain inputs, such as manufacturing demand for components, carbon prices, and supplier reliability. The tool makes use of a Java(TM)-based graphical user interface and an IBM DB2(R) (Database 2(TM)) platform to manage input and output data. A pilot implementation of the solution, using actual customer data, showed that emissions and transportation costs can be reduced simultaneously by optimizing vehicle use, fuel types, and shipment consolidation. Achieving a 20%-30% reduction in emission was possible with minimal cost increase.
+C1 [Sourirajan, K.; Helander, M. E.; Katircioglu, K.] IBM Corp, Div Res, Thomas J Watson Res Ctr, Yorktown Hts, NY 10598 USA.
+   [Centonze, P.] IBM Corp Headquarters, Somers, NY 10589 USA.
+   [Ben-Hamida, M.] IBM Global Business Serv, Chicago, IL 60606 USA.
+   [Boucher, C.] Global Business Serv, Charlotte, NC 28202 USA.
+RP Sourirajan, K (reprint author), IBM Corp, Div Res, Thomas J Watson Res Ctr, POB 218, Yorktown Hts, NY 10598 USA.
+EM ksourira@us.ibm.com; paolina@us.ibm.com; helandm@us.ibm.com;
+   kaan@us.ibm.com; mbenhamida@us.ibm.com; boucherc@us.ibm.com
+CR Butner K., 2008, IBM GLOBAL BUSINESS
+   [Anonymous], 2006, CARB FOOTPR SUPPL CH
+   Cash R., 2003, GREENSCOR GREEN SUPP
+   Cash R, 2003, GREENSCOR DEV GREEN
+   The Climate Group What Can be Done, WHAT CAN BE DON
+   Greenhouse Gas Protocol Initiative, GHG PROT CO2 MOB CAL
+   Lash J, 2007, HARVARD BUS REV, V85, P94
+   Mangmeechai A., 2007, INT LIF CYCL ASS MAN
+   McArdle P., 2007, EM GREENH GAS US 200
+   Rubin J., 2008, COMING HOME
+   Sanders B., 2008, MODEL CARBON MANAGEM
+   SINNOTT RW, 1984, SKY TELESCOPE, V68, P159
+   Srivastava SK, 2007, INT J MANAG REV, V9, P53, DOI 10.1111/j.1468-2370.2007.00202.x
+   Energy Information Administration U. S. Department of Energy Office of Integrated Analysis & Forecasting, 2008, US CARB DIOX EM EN S, VEI-80
+   White A., 2007, G00149710
+NR 15
+TC 1
+Z9 1
+U1 0
+U2 3
+PU IBM CORP
+PI ARMONK
+PA 1 NEW ORCHARD ROAD, ARMONK, NY 10504 USA
+SN 0018-8646
+J9 IBM J RES DEV
+JI IBM J. Res. Dev.
+PY 2009
+VL 53
+IS 3
+AR 8
+DI 10.1147/JRD.2009.5429021
+PG 16
+WC Computer Science, Hardware & Architecture; Computer Science, Information
+   Systems; Computer Science, Software Engineering; Computer Science,
+   Theory & Methods
+SC Computer Science
+GA V22EN
+UT WOS:000208258600008
+ER
+

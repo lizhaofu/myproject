@@ -1,0 +1,89 @@
+PT J
+AU Southwell, CJ
+   Driessen, R
+   Candy, SG
+AF Southwell, Colin J.
+   Driessen, Robert
+   Candy, Steven G.
+TI Using Virtual Simulation in a Geographic Information System to Optimize
+   Abundance Survey Designs When Logistic and Biological Conditions are
+   Constrained
+SO WILDLIFE SOCIETY BULLETIN
+LA English
+DT Article
+DE abundance; disturbance; geographic information system; optimization;
+   penguin; survey design; virtual simulation
+AB Estimating wildlife abundance is central to many resource and ecosystem management problems. Early statistical work on wildlife abundance estimation focused on small-scale problems, but there is a growing need for such information at large spatial scales. An emerging area of research is the optimization of survey designs and methods for large-scale inference, given that agencies need to manage over large scales but operate within tight logistic and financial constraints. We used a geographic information system to explore how candidate regional-scale sample survey designs performed with regard to bias, field efficiency, and potential disturbance using a case study where biological and logistical constraints were severe (a regional-scale ground survey of Adelie penguins [Pygoscelis adeliae] in Antarctica). Some design options enabled gains of up to 50% in field efficiency and 80% in reduced disturbance without any bias or loss of precision. Biased abundance estimates were obtained when small sub-colonies were selected as sample units for convenience in counting. Probabilistic sampling using either plots or sub-colonies returned unbiased estimates. Improvements in field efficiency and reduction in disturbance were achieved in increments through a number of design features. Design decisions often resulted in opposing gains and costs in field efficiency for various survey activities. The optimal outcome of these opposing trends was not obvious without examining the breakdown of overall survey time by activity. Design requirements for optimizing criteria of bias, field efficiency, and disturbance were often opposing and competing. Identifying an optimal overall outcome for these competing criteria depends on their relative importance in the context of the management objectives, logistical constraints, and ethical values. (c) 2012 The Wildlife Society.
+C1 [Southwell, Colin J.; Candy, Steven G.] Australian Antarctic Div, Dept Sustainabil Environm Water Populat & Communi, Kingston, Tas 7050, Australia.
+   [Driessen, Robert] Datavis GIS Pty Ltd, Hobart, Tas 7000, Australia.
+RP Southwell, CJ (reprint author), Australian Antarctic Div, Dept Sustainabil Environm Water Populat & Communi, 203 Channel Highway, Kingston, Tas 7050, Australia.
+EM colin.southwell@aad.gov.au
+CR Ainley D. G., 2002, ADELIE PENGUIN
+   Anderson DR, 2001, WILDLIFE SOC B, V29, P1294
+   Barber-Meyer SM, 2007, POLAR BIOL, V30, P1565, DOI 10.1007/s00300-007-0317-8
+   BHIKHARIDAS AK, 1992, INT J REMOTE SENS, V13, P1577
+   Borchers DL, 2002, ESTIMATING ANIMAL AB
+   Buckland ST, 2000, BIOMETRICS, V56, P1, DOI 10.1111/j.0006-341X.2000.00001.x
+   Buckland ST, 2008, BIRD CONSERV INT, V18, pS91, DOI 10.1017/S0959270908000294
+   CAPURRO A, 1988, AUK, V105, P585
+   Chamaille-Jammes S, 2000, POLAR BIOL, V23, P545, DOI 10.1007/s003000000119
+   Croxall JP, 2002, SCIENCE, V297, P1510, DOI 10.1126/science.1071987
+   DEXTER N, 1990, AUST WILDLIFE RES, V17, P447
+   Edwards D, 1998, ECOL APPL, V8, P323, DOI 10.2307/2641071
+   Egevang C, 2003, POLAR BIOL, V26, P8, DOI 10.1007/s00300-002-0448-x
+   Ellingson AR, 2003, WILDLIFE SOC B, V31, P896
+   Field SA, 2005, J WILDLIFE MANAGE, V69, P473, DOI 10.2193/0022-541X(2005)069[0473:OAOMEU]2.0.CO;2
+   Fraser WR, 1999, WATERBIRDS, V22, P435, DOI 10.2307/1522120
+   Fretwell P. T., 2009, GLOBAL ECOL BIOGEOGR, V18, P1
+   Giese M, 1996, BIOL CONSERV, V75, P157, DOI 10.1016/0006-3207(95)00060-7
+   Gregoire TG, 1998, CAN J FOREST RES, V28, P1429, DOI 10.1139/cjfr-28-10-1429
+   GUINET C, 1995, POLAR BIOL, V15, P511
+   Holmes ND, 2006, POLAR BIOL, V29, P399, DOI 10.1007/s00300-005-0070-9
+   Jehl J. R., 1985, ANTARCT JUS, V20, P171
+   Jenouvrier S, 2006, POLAR BIOL, V29, P413, DOI 10.1007/s00300-005-0073-6
+   Kampp K, 2000, POLAR BIOL, V23, P517, DOI 10.1007/s003000000115
+   Kato Akiko, 2006, Polar Bioscience, P55
+   McKinlay J, 2010, CCAMLR SCI, V17, P213
+   Morrison M. L., 2008, WILDLIFE STUDY DESIG
+   Nusser SM, 1998, ECOL APPL, V8, P234, DOI 10.2307/2641063
+   Olsen AR, 1999, ENVIRON MONIT ASSESS, V54, P1, DOI 10.1023/A:1005823911258
+   Penney RL, 1968, ANTARCT BIRD STUD, P83
+   Pollock KH, 2002, ENVIRONMETRICS, V13, P105, DOI 10.1002/env.514
+   SCHWALLER MR, 1989, REMOTE SENS ENVIRON, V28, P199, DOI 10.1016/0034-4257(89)90113-2
+   Southwell C, 2010, CCAMLR SCI, V17, P229
+   Taylor R., 1982, Antarctic (Wellington), V9, P366
+   Theobald DM, 2007, ENVIRON MANAGE, V40, P134, DOI 10.1007/s00267-005-0199-x
+   Trathan PN, 2004, WILDLIFE SOC B, V32, P332, DOI 10.2193/0091-7648(2004)32[332:IAOCAP]2.0.CO;2
+   TRIVELPIECE W, 1979, AUK, V96, P675
+   WALTERS CJ, 1990, ECOLOGY, V71, P2060, DOI 10.2307/1938620
+   WHITEHEAD MD, 1990, P NIPR S POLAR BIOL, V0003
+   Woehler EJ, 1998, ANTARCT SCI, V10, P449
+   Woehler E. J., 1989, 71 AUSTR ANT DIV
+   Woehler E.J., 1993, DISTRIBUTION ABUNDAN
+   Yoccoz NG, 2001, TRENDS ECOL EVOL, V16, P446, DOI 10.1016/S0169-5347(01)02205-4
+NR 43
+TC 1
+Z9 1
+U1 1
+U2 2
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1938-5463
+J9 WILDLIFE SOC B
+JI Wildl. Soc. Bull.
+PD DEC
+PY 2012
+VL 36
+IS 4
+BP 784
+EP 795
+DI 10.1002/wsb.189
+PG 12
+WC Biodiversity Conservation
+SC Biodiversity & Conservation
+GA V38HA
+UT WOS:000209333300020
+ER
+
+

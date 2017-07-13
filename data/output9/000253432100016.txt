@@ -1,0 +1,1 @@
+base stability criterion discrete system feedback stabilize periodic orbit couple logistic$$map scheme change parameter bifurcation dynamic$$system optionally numerical simulation effectiveness

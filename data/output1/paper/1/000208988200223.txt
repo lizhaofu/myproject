@@ -1,0 +1,63 @@
+PT J
+AU Matthews, F
+   Egli, A
+   Jacob, AL
+   Regazzoni, P
+   Wohlgemuth, R
+   Wessels, G
+   Messmer, P
+AF Matthews, F.
+   Egli, A.
+   Jacob, A. L.
+   Regazzoni, P.
+   Wohlgemuth, R.
+   Wessels, G.
+   Messmer, P.
+TI Computer assisted optimization of in-hospital workflow: the logistics of
+   3D surgical planning
+SO INTERNATIONAL JOURNAL OF COMPUTER ASSISTED RADIOLOGY AND SURGERY
+LA English
+DT Article
+DE Workflow; Logistics; Preoperative planning; Computer assisted surgery
+AB Surgical patient care is a complex organization task. On the one hand, it involves numerous specialties, e. g., radiologists, surgeons, anaesthesiologists, operation room nurses, auxiliary OR staff. On the other, it heavily relies on hospital logistics, e. g., OR scheduling, hospital warehouse management and accounting. Numerous individual computer applications assist the care team throughout the treatment process. Unfortunately, the stand-alone nature of these applications intrinsically hinders information transfer across specialities and between process steps. We have analyzed the peri-operative workflow in an orthopaedic trauma setting and identified bottle-necks in in-hospital information dissemination. We subsequently developed an integrated application to facilitate information processing along the peri-operative workflow. Our application merges innovative three-dimensional surgical planning with hospital warehouse management and logistics. Quality of patient care will increasingly depend on integrating existing medical systems to a central information turntable. It is thereby essential that such an application depicts the entire peri-operative treatment process. Process optimization through integration could likewise be applied to other surgical disciplines.
+C1 [Matthews, F.] Harvard Univ, Brigham & Womens Hosp, Sch Med, Boston, MA 02115 USA.
+   [Matthews, F.; Egli, A.; Jacob, A. L.; Regazzoni, P.; Messmer, P.] Univ Basel, CH-4003 Basel, Switzerland.
+   [Jacob, A. L.; Regazzoni, P.] Univ Basel Hosp, CH-4031 Basel, Switzerland.
+   [Wohlgemuth, R.] Siemens Switzerland, Business Innovat Ctr, Zurich, Switzerland.
+   [Wessels, G.] Siemens Med, Special Solut, Erlangen, Germany.
+   [Messmer, P.] Univ Zurich Hosp, CH-8091 Zurich, Switzerland.
+RP Matthews, F (reprint author), Harvard Univ, Brigham & Womens Hosp, Sch Med, Boston, MA 02115 USA.
+CR Harders M, 2006, SURGERY, V140, P509, DOI 10.1016/j.surg.2006.06.018
+   Kerridge RK, 2006, BEST PRACT RES CL OB, V20, P23, DOI 10.1016/j.bpobgyn.2005.09.004
+   Lu XD, 2005, P ANN INT IEEE EMBS, P6957
+   Matthews F, 2007, J BONE JOINT SURG AM, V89A, P638, DOI 10.2106/JBJS.E.01238
+   Riley R, 2006, J CLIN NURS, V15, P546, DOI 10.1111/j.1365-2702.2006.01362.x
+   Sandberg WS, 2005, ANESTHESIOLOGY, V103, P406, DOI 10.1097/00000542-200508000-00025
+   Sexton JB, 2000, BRIT MED J, V320, P745, DOI 10.1136/bmj.320.7237.745
+   Tellis WM, 2004, J DIGIT IMAGING, V17, P80, DOI 10.1007/s10278-003-1717-0
+NR 8
+TC 0
+Z9 0
+U1 1
+U2 5
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 1861-6410
+EI 1861-6429
+J9 INT J COMPUT ASS RAD
+JI Int. J. Comput. Assist. Radiol. Surg.
+PD JUN
+PY 2007
+VL 2
+SU 1
+BP S431
+EP S432
+PG 2
+WC Engineering, Biomedical; Radiology, Nuclear Medicine & Medical Imaging;
+   Surgery
+SC Engineering; Radiology, Nuclear Medicine & Medical Imaging; Surgery
+GA V32ZD
+UT WOS:000208988200223
+ER
+

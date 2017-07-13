@@ -1,0 +1,1 @@
+deal nonnegative$$neumann boundary parabolic$$chemotaxis system graphic bound convex domain omega subset smooth boundary ratio chi unique nontrivial spatially homogeneous$$equilibrium equivalent globally asymptotically stable$$sense choice suitably regular nonnegative datum equivalent possess uniquely classical satisfy infinity omega infinity omega infinity reserve

@@ -1,0 +1,63 @@
+PT J
+AU Padilha, KG
+   de Sousa, RMC
+   de Silva, MCM
+   Rodrigues, AD
+AF Padilha, Katia Grillo
+   Cardoso de Sousa, Regina Marcia
+   Moreira de Silva, Maria Claudia
+   Rodrigues, Alexandre da Silva
+TI Patient's organ dysfunction in the intensive care unit according to the
+   Logistic Organ Dysfunction System
+SO REVISTA DA ESCOLA DE ENFERMAGEM DA USP
+LA English
+DT Article
+DE Intensive care units; Severity of Illness Index; Patient discharge
+AB The aim of this study was to analyze the association between the probability of death, number and type of organ dysfunction at the admission in the Intensive Care Unit (ICU) according to the Logistic Organ Dysfunction System (LODS) and the variables: length of stay (LOS), discharge and readmission in the Unit. This prospective longitudinal study included 600 adult patients from general ICU of four hospitals in Sao Paulo City. The results showed association between probability of death and discharge of the Unit. (p<0.001). It was also observed association between the number of organ dysfunction and the variables discharge (p<0.001) and LOS in the Unit (p<0.001). Besides, there was association between the type of organ dysfunction and LOS only in the group of patients with neurological (p<0.001), pulmonary (p<0.001) and renal (p<0.001) dysfunctions. No association was observed between readmission in the ICU and the variables analyzed.
+C1 [Padilha, Katia Grillo; Cardoso de Sousa, Regina Marcia] Univ Sao Paulo, Sch Nursing, Med Surg Nursing Dept, Sao Paulo, Brazil.
+   [Moreira de Silva, Maria Claudia] Univ Sao Paulo, Sch Nursing, Med Surg Nursing Dept, Grad Program Nursing Adult & Elderly Health, Sao Paulo, Brazil.
+   [Rodrigues, Alexandre da Silva] Univ Sao Paulo, Sch Nursing, Sao Paulo, Brazil.
+RP Padilha, KG (reprint author), Rua Jerico 59,Ap 132, BR-05435040 Sao Paulo, Brazil.
+EM kgpadilh@usp.br; vian@usp.br; mclaudiacontini@yhahoo.com.br;
+   alexandre.rodrigues@usp.br
+CR Ciampone JT, 2006, ACTA PAUL ENFERM, V19, P28
+   de Sousa CR, 2008, REV LAT-AM ENFERM, V16, P218, DOI 10.1590/S0104-11692008000200008
+   Freire AX, 2002, CRIT CARE MED, V30, P2468, DOI 10.1097/01.CCM.0000034695.18650.2A
+   Goncalves LA, 2006, REV BRAS ENFERM, V59, P56
+   Goncalves LA, 2007, REV ESC ENFERM USP, V41, P645
+   Moura Junior DF, 2004, THESIS
+   Lamia B, 2006, INTENS CARE MED, V32, P1560, DOI 10.1007/s00134-006-0286-3
+   LeGall JR, 1996, JAMA-J AM MED ASSOC, V276, P802, DOI 10.1001/jama.276.10.802
+   Livianu J, 1994, CONDUTAS PACIENTE GR, P823
+   Metnitz PGH, 2003, INTENS CARE MED, V29, P241, DOI 10.1007/s00134-002-1584-z
+   Padilha KG, 2007, INTENS CRIT CARE NUR, V23, P162, DOI 10.1016/j.iccn.2006.07.004
+   Padilha KG, 2008, INTENS CRIT CARE NUR, V24, P197, DOI 10.1016/j.iccn.2007.09.004
+   Queijo AF, 2008, THESIS
+   Silva MCM, 2002, REV PAUL ENFERM, V21, P50
+   Timsit JF, 2002, CRIT CARE MED, V30, P2003, DOI 10.1097/01.CCM.0000025210.75241.3E
+NR 15
+TC 1
+Z9 1
+U1 1
+U2 1
+PU UNIV SAO PAOLO
+PI CERQUERA CESAR
+PA AV  DR ENEAS DE CARVALHO AGUIAR, 419, CERQUERA CESAR, SP 05403-000,
+   BRAZIL
+SN 0080-6234
+EI 1980-220X
+J9 REV ESC ENFERM USP
+JI Rev. Esc. Enferm. USP
+PD DEC
+PY 2009
+VL 43
+SI 2
+BP 1248
+EP 1252
+PG 5
+WC Nursing
+SC Nursing
+GA V33AV
+UT WOS:000208992600018
+ER
+

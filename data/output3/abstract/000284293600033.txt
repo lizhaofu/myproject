@@ -1,0 +1,1 @@
+population model diffusion logistic$$growth population live patch omega subset satisfy linear$$boundary condition survival constant$$yield harvest establish existence super reserve

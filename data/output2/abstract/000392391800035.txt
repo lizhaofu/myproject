@@ -1,0 +1,1 @@
+mapping intertidal$$terrain morphology base synthetic$$aperture radar sar temporal$$correlation sar backscatter intensity water intertidal$$zone require manual editing geolocate pixel elevation model intertidal$$zone validate terrasar sar acquire tagus estuary regular update intertidal$$bathymetric model flood hazard mitigation morphodynamic modeling

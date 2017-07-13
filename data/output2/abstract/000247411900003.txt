@@ -1,0 +1,1 @@
+regulate logistic$$growth model linear$$stability existence hopf bifurcation hopf bifurcation delay tau pass critical normal$$form theory center manifold derive explicit$$algorithm direction hopf bifurcation stability bifurcate periodic finally numerical$$simulation theoretical prediction reserve

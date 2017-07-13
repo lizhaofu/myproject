@@ -1,0 +1,1 @@
+complex dynamics logistic$$map type periodic impulsive force parameter vary system produce phenomenon equilibrium periodic chaotic$$system evolve chaos cascade period double bifurcation poincare map logistic$$map periodic impulsive$$force bifurcation finally floquet theory bifurcation mechanism periodic

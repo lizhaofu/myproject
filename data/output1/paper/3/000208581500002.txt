@@ -1,0 +1,58 @@
+PT J
+AU Leroux, MH
+   de Marcellis-Warin, N
+   Trepanier, M
+AF Leroux, Marie-Helene
+   de Marcellis-Warin, Nathalie
+   Trepanier, Martin
+TI Safety management in hazardous materials logistics
+SO TRANSPORTATION LETTERS-THE INTERNATIONAL JOURNAL OF TRANSPORTATION
+   RESEARCH
+LA English
+DT Article
+DE Logistics; Transportation; Hazardous materials; Risk analysis
+AB When faced with logistics decisions (outsourcing, means of transportation, trip frequency, etc.), firms will generally choose the option that permits cost minimization. However, the risks associated with hazardous materials (hazmat) have led to the development of several models where both costs and risks are taken into account in the decision making process. For example, hazmat transportation models will avoid heavily populated areas when possible. But how does this work out in practice? In this paper, we present a survey of firms' practices. We mailed a questionnaire to 490 facilities handling hazmat in the province of Quebec and received 106 answers. Results show that hazmat shipments come and go almost every week, mostly by truck, and that transportation is generally outsourced. Also, while most facilities seem to have appropriate safety management programs on-site, they tend to overlook important security aspects of transportation. Comparative analysis of small and large firms, and of heavy and occasional hazmat users, were also performed using the Mann-Whitney test to highlight possible safety management differences between the groups. Results show that larger firms can devote more resources to safety management programs. The same can be said of heavy hazmat users.
+C1 [Leroux, Marie-Helene; de Marcellis-Warin, Nathalie; Trepanier, Martin] Polytech Montreal, Montreal, PQ H3C 3A7, Canada.
+   [Leroux, Marie-Helene; de Marcellis-Warin, Nathalie; Trepanier, Martin] Univ Montreal, CIRRELT, Montreal, PQ H3C 3J7, Canada.
+   [de Marcellis-Warin, Nathalie] Ctr Interuniv Rech Anal Org CIRANO, Montreal, PQ H3A 2A5, Canada.
+RP Trepanier, M (reprint author), Polytech Montreal, CP 6079,Succ Ctr Ville, Montreal, PQ H3C 3A7, Canada.
+EM marie-helene.leroux@polymtl.ca; nathalie.demarcellis-warin@polymtl.ca;
+   mtrepanier@polymtl.ca
+CR Choudhry RA, 2007, SAFETY SCI, V45, P993, DOI 10.1016/j.ssci.2006.09.003
+   Denis H., 1998, COMPRENDRE GERER RIS
+   Fernandez-Muniz B, 2007, J LOSS PREVENT PROC, V20, P52, DOI 10.1016/j.jlp.2006.10.002
+   Glendon AI, 2000, SAFETY SCI, V34, P193, DOI 10.1016/S0925-7535(00)00013-8
+   Guldenmund FW, 2000, SAFETY SCI, V34, P215, DOI 10.1016/S0925-7535(00)00014-X
+   Harms-Ringdahl L, 2004, J HAZARD MATER, V111, P13, DOI 10.1016/j.jhazmat.2004.02.003
+   Hopkins A, 2006, SAFETY SCI, V44, P875, DOI 10.1016/j.ssci.2006.05.005
+   Jalette P., 2003, SOUS TRAITANCE SECTE
+   Kawka N, 1999, J LOSS PREVENT PROC, V12, P53, DOI 10.1016/S0950-4230(98)00037-0
+   Kennedy R, 1998, SAFETY SCI, V30, P249, DOI 10.1016/S0925-7535(98)00025-3
+   Ministere du Developpement Economique de l'Innovation et de l'Exportation, 2005, IND CHIM QUEB
+   Turner BA, 1978, MAN MADE DISASTERS
+   Wright J., 1993, TRANSPORTATION DANGE
+NR 13
+TC 2
+Z9 2
+U1 1
+U2 13
+PU J ROSS PUBL
+PI FORT LAUDERDALE
+PA 5765 N ANDREWS WAY, FORT LAUDERDALE, FL 33309 USA
+SN 1942-7867
+J9 TRANSP LETT
+JI Transp. Lett.
+PD JAN
+PY 2010
+VL 2
+IS 1
+BP 13
+EP 25
+DI 10.3328/TL.2010.02.01.13-25
+PG 13
+WC Transportation; Transportation Science & Technology
+SC Transportation
+GA V26YS
+UT WOS:000208581500002
+ER
+

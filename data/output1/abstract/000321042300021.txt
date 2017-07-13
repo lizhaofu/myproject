@@ -1,0 +1,1 @@
+singular$$control optimal harvest maximize expect harvest individual logistic$$model finite$$horizon viscosity technique penalty solve parabolic$$variational inequality associate behavior move free$$boundary variational inequality optimal harvest policy exist

@@ -1,0 +1,1 @@
+technique estimate location parameter scale parameter sigma type generalize logistic$$distribution statistics linear function statistics kernel comparison estimator respect maximum likelihood estimator

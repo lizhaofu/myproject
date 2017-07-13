@@ -1,0 +1,1 @@
+Using a fixed point theorem of strict-set-contraction, we some established the existence of positive periodic solutions for the neutral logistic difference equation, with multiple delays,[GRAPHICS]

@@ -1,0 +1,77 @@
+PT J
+AU Mooney, A
+   Keating, JG
+   Heffernan, DM
+AF Mooney, Aidan
+   Keating, John G.
+   Heffernan, Daniel M.
+TI A detailed study of the generation of optically detectable watermarks
+   using the logistic map
+SO CHAOS SOLITONS & FRACTALS
+LA English
+DT Article
+ID CHAOS
+AB A digital watermark is a visible, or preferably invisible, identification code that is permanently embedded in digital media, to prove owner authentication and provide protection for documents. Given the interest in watermark generation using chaotic functions a detailed study of one chaotic function for this purpose is performed. In this paper, we present an approach for the generation of watermarks using the logistic map. Using this function, in conjunction with seed management, it is possible to generate chaotic sequences that may be used to create highpass or lowpass digital watermarks. In this paper we provide a detailed study on the generation of optically detectable watermarks and we provide some guidelines on successful chaotic watermark generation using the logistic map, and show using a recently published scheme, how care must be taken in the selection of the function seed. (c) 2005 Elsevier Ltd. All rights reserved.
+C1 NUI Maynooth, Dept Comp Sci, Maynooth, Kildare, Ireland.
+   NUI Maynooth, Dept Math Phys, Maynooth, Kildare, Ireland.
+   Dublin Inst Adv Studies, Sch Theoret Phys, Dublin 4, Ireland.
+RP Keating, JG (reprint author), NUI Maynooth, Dept Comp Sci, Maynooth, Kildare, Ireland.
+EM amooney@cs.nuim.ie; john.keating@nuim.ie; dmh@thphys.nuim.ie
+CR Barni M, 2001, IEEE T IMAGE PROCESS, V10, P783, DOI 10.1109/83.918570
+   BELOT G, 1996, J CHAOD ORDER QUANTU, V28
+   BRITANNICA E, 2005, ENCY BRITANNICA
+   Cox I., 2002, DIGITAL WATERMAKING
+   COX IJ, 1996, P IEEE INT C IM PROC, V3, P243, DOI 10.1109/ICIP.1996.560429
+   Dawei Z., 2004, CHAOS SOLITON FRACT, V22, P47, DOI DOI 10.1016/J.CHA0S.2003.12.104
+   EBELING W, 2001, STOCH DYNAM, P1
+   Feng GR, 2006, CHAOS SOLITON FRACT, V27, P580, DOI 10.1016/j.chaos.2005.04.051
+   Fridrich J, 1998, P SPIE INT S OPT SCI, V2
+   HEFFERNAN DM, 1992, INT J THEOR PHYS, V31, P1345, DOI 10.1007/BF00673968
+   HERRIGEL A, 1999, P SPIE INT WORKSH OP
+   JOHNSON NF, 2000, INFORMATION HIDING S
+   Lasota A, 1994, CHAOS FRACTALS NOISE
+   Marek M, 1991, CHAOTIC BEHAV DETERM
+   Mooney A, 2005, P SOC PHOTO-OPT INS, V5823, P58, DOI 10.1117/12.605983
+   Mooney A, 2004, PROC SPIE, V5615, P120, DOI 10.1117/12.577856
+   Mooney A, 2004, PROC SPIE, V5579, P341, DOI 10.1117/12.567429
+   Mooney A, 2003, P SOC PHOTO-OPT INS, V5202, P97, DOI 10.1117/12.506092
+   Nikolaidis A., 2002, P IEEE INT S CIRC SY, P509
+   Ott E., 1993, CHAOS DYNAMICAL SYST
+   Rosen J, 1997, OPT LETT, V22, P964, DOI 10.1364/OL.22.000964
+   Schuster H. G., 1995, DETERMINISTIC CHAOS
+   Sequeira A, 2001, PROC SPIE, V4518, P216, DOI 10.1117/12.448206
+   SHEN M, 2003, 4 INT S IND COMP AN, P209
+   Sonka M., 1999, IMAGE PROCESSING ANA
+   STEVENS R, 1983, P IEEE T PATT PATT A, P520
+   Sun QB, 2001, INTERNATIONAL CONFERENCE ON INFORMATION TECHNOLOGY: CODING AND COMPUTING, PROCEEDINGS, P65, DOI 10.1109/ITCC.2001.918767
+   Tefas A, 2003, CHAOS SOLITON FRACT, V17, P567, DOI 10.1016/S0960-0779(02)00399-5
+   TITCHENER MR, 2001, P DAT COMPR C
+   Tsekeridou S., 2001, P IEEE INT C AC SPEE, P1989
+   YANG K, 1988, P ISCAS 88, V1470, P2301
+NR 31
+TC 10
+Z9 11
+U1 0
+U2 0
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0960-0779
+EI 1873-2887
+J9 CHAOS SOLITON FRACT
+JI Chaos Solitons Fractals
+PD DEC
+PY 2006
+VL 30
+IS 5
+BP 1088
+EP 1097
+DI 10.1016/j.chaos.2005.09.029
+PG 10
+WC Mathematics, Interdisciplinary Applications; Physics, Multidisciplinary;
+   Physics, Mathematical
+SC Mathematics; Physics
+GA 072LS
+UT WOS:000239675500006
+ER
+

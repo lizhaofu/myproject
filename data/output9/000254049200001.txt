@@ -1,0 +1,1 @@
+autonomous logistic$$equationx nonnegative condition periodic$$behavior attractivity stability

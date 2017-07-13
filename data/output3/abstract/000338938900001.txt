@@ -1,0 +1,1 @@
+deal neumann boundary volume fill chemotaxis model logistic$$growth dimensional$$box prove perturbation magnitude delta nonlinear$$evolution dominate correspond linear dynamics finite fastest grow mode period delta perturbation behave drastically rise richness pattern

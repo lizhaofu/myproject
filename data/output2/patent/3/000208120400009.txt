@@ -1,0 +1,69 @@
+PT J
+AU Cheng, Y
+AF Cheng, Yu
+TI Modeling Cumulative Incidences of Dementia and Dementia-Free Death Using
+   a Novel Three-Parameter Logistic Function
+SO INTERNATIONAL JOURNAL OF BIOSTATISTICS
+LA English
+DT Article
+DE cause-specific hazard function; cumulative incidence function; long-term
+   incidence; modified three-parameter logistic mode; parametric modeling
+AB Parametric modeling of univariate cumulative incidence functions and logistic models have been studied extensively. However, to the best of our knowledge, there is no study using logistic models to characterize cumulative incidence functions. In this paper, we propose a novel parametric model which is an extension of a widely-used four-parameter logistic function for dose-response curves. The modified model can accommodate various shapes of cumulative incidence functions and be easily implemented using standard statistical software. The simulation studies demonstrate that the proposed model is as efficient as or more efficient than its nonparametric counterpart when it is correctly specified, and outperforms the existing Gompertz model when the underlying cumulative incidence function is sigmoidal. The practical utility of the modified three-parameter logistic model is illustrated using the data from the Cache County Study of dementia.
+FU NSF [DMS-0906449]
+FX The author thanks Dr. Jason P. Fine, Dr. Robert Krafty and the two
+   referees for their helpful comments and Dr. Jong-Hyeon Jeong for sharing
+   the codes from his previous work. The author is also grateful to Karen
+   Bandeen-Roche, Peter Zandi, and the Cache County Study Steering
+   Committee for providing the dementia dataset. The work is partially
+   supported by the NSF grant DMS-0906449.
+CR AALEN O, 1978, ANN STAT, V6, P701, DOI 10.1214/aos/1176344247
+   BENICHOU J, 1990, BIOMETRICS, V46, P813, DOI 10.2307/2532098
+   Breitner JCS, 1999, NEUROLOGY, V53, P321
+   Cheng Y, 2008, BIOMETRIKA, V95, P233, DOI 10.1093/biomet/asm089
+   Cheng Y, 2007, J AM STAT ASSOC, V102, P1407, DOI 10.1198/016214507000001157
+   Cheng Y, 2009, BIOMETRICS, V65, P385, DOI 10.1111/j.1541-0420.2008.01072.x
+   DELEAN A, 1978, AM J PHYSIOL, V235, pE97
+   Embretson SE, 2000, ITEM RESPONSE THEORY
+   Fine JP, 1999, J AM STAT ASSOC, V94, P496, DOI 10.2307/2670170
+   Harrell Jr FE, 2001, BIOSTATISTICS, DOI 10.1093/biostatistics/2.1.85
+   Finney DJ., 1978, STAT METHOD BIOL ASS
+   Gottschalk PG, 2005, COMPUT METH PROG BIO, V80, P204, DOI 10.1016/j.cmpb.2005.08.003
+   Gottschalk PG, 2005, J BIOPHARM STAT, V15, P437, DOI 10.1081/BIP-200056532
+   Gottschalk PG, 2005, ANAL BIOCHEM, V343, P54, DOI 10.1016/j.ab.2005.04.035
+   Jeong J., 2007, BIOSTATISTICS, V55, P184
+   Jeong JH, 2006, J ROY STAT SOC C-APP, V55, P187, DOI 10.1111/j.1467-9876.2006.00532.x
+   Kalbfleisch JD, 2002, STAT ANAL FAILURE TI
+   KAPLAN EL, 1958, J AM STAT ASSOC, V53, P457, DOI 10.2307/2281868
+   Klein J.P., 2003, SURVIVAL ANAL TECHNI
+   LARSON MG, 1985, J R STAT SOC C-APPL, V34, P201
+   Maller R. A., 1996, SURVIVAL ANAL LONG T
+   MILLER RG, 1983, BIOMETRICS, V39, P1077, DOI 10.2307/2531341
+   NELSON W, 1972, TECHNOMETRICS, V14, P945, DOI 10.2307/1267144
+   Tai BC, 2001, STAT MED, V20, P661, DOI 10.1002/sim.711
+   TSIATIS A, 1975, P NATL ACAD SCI USA, V72, P20, DOI 10.1073/pnas.72.1.20
+   Van Der Vaart A., 2000, WEAK CONVERGENCE EMP
+   WANG A, 2007, INT J BIOSTAT, V3, P1050
+NR 27
+TC 4
+Z9 4
+U1 0
+U2 1
+PU BERKELEY ELECTRONIC PRESS
+PI BERKELEY
+PA 2809 TELEGRAPH AVENUE, STE 202, BERKELEY, CA 94705 USA
+SN 1557-4679
+J9 INT J BIOSTAT
+JI Int. J. Biostat.
+PY 2009
+VL 5
+IS 1
+AR 29
+DI 10.2202/1557-4679.1183
+PG 18
+WC Mathematical & Computational Biology; Statistics & Probability
+SC Mathematical & Computational Biology; Mathematics
+GA V20DJ
+UT WOS:000208120400009
+ER
+
+

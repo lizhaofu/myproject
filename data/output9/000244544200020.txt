@@ -1,0 +1,1 @@
+datum growth pediococcus acidilactici fermentative$$production bacteriocin pediocin ach previous model sigmoidal function modify gompertz logistic model adequately account growth growth fail account stationary$$death reserve

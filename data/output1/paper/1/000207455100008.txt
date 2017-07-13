@@ -1,0 +1,64 @@
+PT J
+AU Li, LH
+   Neal, RM
+AF Li, Longhai
+   Neal, Radford M.
+TI Compressing Parameters in Bayesian High-order Models with Application to
+   Logistic Sequence Models
+SO BAYESIAN ANALYSIS
+LA English
+DT Article
+DE compressing parameters; high-order models; Markov chain Monte Carlo;
+   logistic models; interaction
+AB Bayesian classification and regression with high-order interactions is largely infeasible because Markov chain Monte Carlo (MCMC) would need to be applied with a great many parameters, whose number increases rapidly with the order. In this paper we show how to make it feasible by effectively reducing the number of parameters, exploiting the fact that many interactions have the same values for all training cases. Our method uses a single "compressed" parameter to represent the sum of all parameters associated with a set of patterns that have the same value for all training cases. Using symmetric stable distributions as the priors of the original parameters, we can easily find the priors of these compressed parameters. We therefore need to deal only with a much smaller number of compressed parameters when training the model with MCMC. After training the model, we can split these compressed parameters into the original ones as needed to make predictions for test cases. We show in detail how to compress parameters for logistic sequence prediction models. Experiments on both simulated and real data demonstrate that a huge number of parameters can indeed be reduced by our compression method.
+C1 [Li, Longhai] Univ Saskatchewan, Dept Math & Stat, Saskatoon, SK, Canada.
+   [Neal, Radford M.] Univ Toronto, Dept Stat, Toronto, ON, Canada.
+RP Li, LH (reprint author), Univ Saskatchewan, Dept Math & Stat, Saskatoon, SK, Canada.
+EM longhai@math.usask.ca; radford@utstat.toronto.edu
+FU Natural Sciences and Engineering Research Council of Canada
+FX This research was supported by Natural Sciences and Engineering Research
+   Council of Canada. Radford Neal holds a Canada Research Chair in
+   Statistics and Machine Learning. The authors also appreciate the
+   anonymous reviewers for providing many valuable comments on the previous
+   draft of this paper.
+CR BAKER JK, 1975, IEEE T ACOUST SPEECH, VAS23, P24, DOI 10.1109/TASSP.1975.1162650
+   BARANKIN EW, 1961, ANN I STAT MATH, V12, P91
+   Bell T.C., 1990, TEXT COMPRESSION
+   CHEVERUD JM, 1995, GENETICS, V139, P1455
+   DAWID AP, 1979, J ROY STAT SOC B MET, V41, P1
+   Durbin R., 1999, BIOL SEQUENCE ANAL P
+   Feller W., 1966, INTRO PROBABILITY TH
+   GELFAND AE, 1990, J AM STAT ASSOC, V85, P398, DOI 10.2307/2289776
+   LI L, 2007, THESIS U TORONTO
+   Neal RM, 2003, ANN STAT, V31, P705, DOI 10.1214/aos/1056562461
+   Neal R.M., 1993, PROBABILISTIC INFERE
+   Poirier DJ, 1998, ECONOMET THEOR, V14, P483
+   Ritchie MD, 2001, AM J HUM GENET, V69, P138, DOI 10.1086/321276
+   ROMBERG J, 2001, IEEE T IMAGE PROCESS, V69, P138
+   SUN S, 2006, THESIS U TORONTO
+   Thisted R., 1988, ELEMENTS STAT COMPUT
+   WRIGHT S, 1980, EVOLUTION, V34, P825, DOI 10.2307/2407990
+NR 17
+TC 3
+Z9 3
+U1 0
+U2 1
+PU INT SOC BAYESIAN ANALYSIS
+PI PITTSBURGH
+PA CARNEGIE MELLON UNIV, DEPT STTISTICS, PITTSBURGH, PA 15213 USA
+SN 1931-6690
+J9 BAYESIAN ANAL
+JI Bayesian Anal.
+PY 2008
+VL 3
+IS 4
+BP 793
+EP 821
+DI 10.1214/08-BA330
+PG 29
+WC Mathematics, Interdisciplinary Applications; Statistics & Probability
+SC Mathematics
+GA V10HM
+UT WOS:000207455100008
+ER
+

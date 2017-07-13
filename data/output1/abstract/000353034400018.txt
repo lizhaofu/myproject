@@ -1,0 +1,1 @@
+deal parabolic$$chemotaxis system consumption chemoattractant logistic$$source homogeneous$$neumann boundary condition smooth bound domain function assume generalize chemotactic$$sensitivity function logistic$$source condition correspond boundary possess unique classical uniformly bound

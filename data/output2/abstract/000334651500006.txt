@@ -1,0 +1,1 @@
+positive steady diffusive logistic$$population model constant$$yield harvest negative$$density dependent$$emigration boundary examine class nonlinear$$boundary condition depend population density diffusion coefficient model negative$$density dependent$$emigration boundary existence establish super reserve

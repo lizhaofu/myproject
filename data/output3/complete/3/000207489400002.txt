@@ -1,0 +1,54 @@
+PT J
+AU Tahata, K
+   Katakura, S
+   Tomizawa, S
+AF Tahata, Kouji
+   Katakura, Shingo
+   Tomizawa, Sadao
+TI DECOMPOSITIONS OF MARGINAL HOMOGENEITY MODEL USING CUMULATIVE LOGISTIC
+   MODELS FOR MULTI-WAY CONTINGENCY TABLES
+SO REVSTAT-STATISTICAL JOURNAL
+LA English
+DT Article
+DE decomposition; marginal cumulative logistic model; marginal homogeneity;
+   marginal mean; multi-way contingency table
+AB For square contingency tables with ordered categories, Agresti (1984, 2002) considered the marginal cumulative logistic (ML) mode, which is an extension of the marginal homogeneity (MH) model. Miyamoto, Niibe and Tomizawa (2005) proposed the conditional marginal cumulative logistic (CML) model which is defined off the main diagonal cells, and gave the decompositions of the MH model using the ML (CML) model. This paper (1) considers the ML and CML models for multi-way tables, and (2) gives the decompositions of the MH model in the ML (CML) model and the model of the equality of marginal means for multi-way tables. An example is given.
+C1 [Tahata, Kouji; Katakura, Shingo] Tokyo Univ Sci, Grad Sch Sci & Technol, Noda, Chiba 2788510, Japan.
+   [Tomizawa, Sadao] Tokyo Univ Sci, Dept Informat Sci, Fac Sci & Technol, Noda, Chiba 2788510, Japan.
+RP Tahata, K (reprint author), Tokyo Univ Sci, Grad Sch Sci & Technol, Noda, Chiba 2788510, Japan.
+EM tahata@jul.rikadai.jp; tomizawa@is.noda.tus.ac.jp
+CR Agresti A, 1984, ANAL ORDINAL CATEGOR
+   Agresti A., 2002, CATEGORICAL DATA ANA
+   BHAPKAR VP, 1966, J AM STAT ASSOC, V61, P228, DOI 10.2307/2283057
+   Bishop Y. M., 1975, DISCRETE MULTIVARIAT
+   LANG JB, 1994, J AM STAT ASSOC, V89, P625, DOI 10.2307/2290865
+   Miyamoto N., 2005, AUST J STAT, V34, P361
+   STUART A, 1955, BIOMETRIKA, V42, P412, DOI 10.2307/2333387
+   TOMIZAWA S, 1991, CALCUTTA STAT ASS B, V41, P201
+   TOMIZAWA S, 1998, SANKHYA B, V60, P293
+   TOMIZAWA S, 1993, CALCUTTA STAT ASS B, V43, P123
+NR 10
+TC 0
+Z9 0
+U1 0
+U2 0
+PU INST NACIONAL ESTATISTICA-INE
+PI LISBON
+PA AV ANTONIO JOSE ALMEIDA, 2, LISBON, 1000-043, PORTUGAL
+SN 1645-6726
+J9 REVSTAT-STAT J
+JI REVSTAT-Stat. J.
+PD JUL
+PY 2007
+VL 5
+IS 2
+BP 163
+EP 176
+PG 14
+WC Statistics & Probability
+SC Mathematics
+GA V10UR
+UT WOS:000207489400002
+ER
+
+

@@ -1,0 +1,1 @@
+logistic$$equation piecewise constant$$argument generalize type stability trivial positive$$equation nonautonomous$$equation existence bound nonautonomous$$equation stability positive$$lyapunov nonautonomous equation condition formulate parameter model argument function numerical simulation validate

@@ -1,0 +1,1 @@
+delay transition metastable stable logistic$$system assumption delay decay evolution expression transition derive approximation condition delay steepest descent approximation numerically calculate additive$$noise multiplicative$$noise correlation additive multiplicative noise enhance system transition metastable stable$$transition restrain delay delay enhance stability system

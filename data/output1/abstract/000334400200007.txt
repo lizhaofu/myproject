@@ -1,0 +1,1 @@
+asymptotic$$behaviour lattice dynamical$$system logistic$$type system finite ordinary differential equation spatial$$discretization logistic$$equation diffusion prove attractor exist suitable weighted space sequence

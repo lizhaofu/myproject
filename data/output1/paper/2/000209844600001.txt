@@ -1,0 +1,103 @@
+PT J
+AU Yu, Y
+   Chen, J
+   Lin, SQ
+   Wang, Y
+AF Yu, Yang
+   Chen, Jian
+   Lin, Shangquan
+   Wang, Ying
+TI A Dynamic QoS-Aware Logistics Service Composition Algorithm Based on
+   Social Network
+SO IEEE TRANSACTIONS ON EMERGING TOPICS IN COMPUTING
+LA English
+DT Article
+DE Logistics path planning; service composition; social network; QoS; big
+   data
+AB The public logistics platform aims to provide customers with end-to-end logistics services by finding and composing a huge quantity of web services from logistics service providers. But, traditional service composition required predefined business process so that its flexibility is far from satisfactory in the problem. Path planning can be a solution of finding a suitable business path during service composition, but the search space will increase dramatically with the growth of service quantity and is hard to get a result within a tolerable interaction time. In the context of big data, to quickly build a service path with the optimal global QoS has become a problem demanding prompt solution. Sociologists point out that companies prefer familiar partners in the commercial environment. Using this principle, a concept of partner circle is defined, which can significantly reduce the search space in path planning. Combining path planning with service composition, a PartnerFirst algorithm is presented based on the social network, which is the cooperation network of service providers here. Simulation experiment shows that the PartnerFirst algorithm outperforms current approaches over 10 times in efficiency, with just about 10% loss in QoS. The relationship between efficiency and service quantity of the PartnerFirst algorithm is nearly linear. It proves that using social network in dynamic service composition is efficient and effective.
+C1 [Yu, Yang] Sun Yat Sen Univ, Sch Software, Guangzhou 510275, Guangdong, Peoples R China.
+   [Chen, Jian; Lin, Shangquan; Wang, Ying] Sun Yat Sen Univ, Sch Informat Sci & Technol, Guangzhou 510275, Guangdong, Peoples R China.
+RP Yu, Y (reprint author), Sun Yat Sen Univ, Sch Software, Guangzhou 510275, Guangdong, Peoples R China.
+EM yuy@mail.sysu.edu.cn
+FU National Natural Science Foundation of China [60873162]; Natural Science
+   Foundation of Guangdong Province [S2012010009634]; Research Foundation
+   of Science and Technology Major Project in Guangdong Province
+   [2012A010800012]; Cooperation Project in Industry, Education and
+   Research of Guangdong Province; Ministry of Education of China
+   [20116090400275]; Research Foundation of Science and Technology Plan
+   Project in Guangzhou City [12A12051586]
+FX This work was supported in part by the National Natural Science
+   Foundation of China under Grant 60873162, in part by the Natural Science
+   Foundation of Guangdong Province under Grant S2012010009634, in part by
+   the Research Foundation of Science and Technology Major Project in
+   Guangdong Province under Grant 2012A010800012, in part by the
+   Cooperation Project in Industry, Education and Research of Guangdong
+   Province and Ministry of Education of China under Grant 20116090400275,
+   and in part by the Research Foundation of Science and Technology Plan
+   Project in Guangzhou City under Grant 12A12051586.
+CR Alrifai M., 2010, P 19 INT C WORLD WID, P11, DOI DOI 10.1145/1772690.1772693
+   Alrifai M, 2012, ACM T WEB, V6, DOI 10.1145/2180861.2180864
+   Bajaj A, 2010, DECIS SUPPORT SYST, V50, P191, DOI 10.1016/j.dss.2010.07.014
+   Canfora G, 2008, J SYST SOFTWARE, V81, P1754, DOI 10.1016/j.jss.2007.12.792
+   Cheatham M., 2006, P INT S COLL TECHN S, P306
+   Crispim J., 2007, COLLABORATIVE NETWOR, P197
+   Crispim JA, 2005, INT FED INFO PROC, V186, P143
+   Dai Y, 2006, CHINESE J COMPUTERS, V29, P1167
+   Dijkstra E. W., 1959, NUMER MATH, V1, P269, DOI DOI 10.1007/BF01386390
+   Dong yuan-yuan, 2011, J CHINESE COMPUTER S, V32, P455
+   FLOYD RW, 1962, COMMUN ACM, V5, P345, DOI 10.1145/367766.368168
+   Gary M.R., 1979, COMPUTERS INTRACTABI
+   Ghallab M., 1998, TECH REP
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Hadaya P, 2007, IND MANAGE DATA SYST, V107, P954, DOI 10.1108/02635570710816694
+   Hashemian S. V., 2006, P EUR C WEB SERV, P75
+   Hiratsuka N., 2011, Proceedings of the 2011 IEEE International Conference on Web Services (ICWS 2011), P97, DOI 10.1109/ICWS.2011.33
+   Hu Q., 2012, CHINA SCIENCEPAPER, V7, P267
+   Huang Z.-G., 2012, COMPUTER INTEGRATED, V18, P1711
+   Jarimo T, 2005, INT FED INFO PROC, V186, P135
+   Klein A., 2013, IEEE T SERV COMPUT, V99, P1
+   Klusch M., 2005, P AAAI FALL S SEM WE
+   Kousalya G, 2011, 2011 NINTH IEEE INTERNATIONAL SYMPOSIUM ON PARALLEL AND DISTRIBUTED PROCESSING WITH APPLICATIONS WORKSHOPS (ISPAW), P193, DOI 10.1109/ISPAW.2011.40
+   Lazzarini S. G., 2007, WORKING PAPER
+   Li E, 2007, I C WIREL COMM NETW, P6738
+   zhong Li Jin-, 2010, APPL RES COMPUTERS, V27, P3622, DOI 10.3969/j.issn.1001-3695.2010.10.005
+   Liu G, 2001, P IEEE INFOCOM 2001, V2, P743
+   Liu J., 2003, INT J GEN SYST, P1
+   Liu S.L., 2007, CHINESE J SOFTW, V18, P646
+   Liu Y.T., 2004, P 13 INT WORLD WID W, P66, DOI DOI 10.1145/1013367.1013379
+   O'Sullivan J, 2002, DISTRIB PARALLEL DAT, V12, P117, DOI 10.1023/A:1016547000822
+   Oksanen T, 2009, J FIELD ROBOT, V26, P651, DOI 10.1002/rob.20300
+   Peer J., 2005, TECH REP
+   Strunk A, 2010, Proceedings 2010 8th IEEE European Conference on Web Services (ECOWS 2010), P67, DOI 10.1109/ECOWS.2010.16
+   TRAVERS J, 1969, SOCIOMETRY, V32, P425, DOI 10.2307/2786545
+   YANG WANG YANG, 2010, APPL RES COMPUTER, V27, P1659, DOI 10.3969/j.issn.1001-3695.2010.05.013
+   Wang Z, 1996, IEEE J SEL AREA COMM, V14, P1228, DOI 10.1109/49.536364
+   Wu D., 2003, AUTOMATING DAML S WE, P195
+   yang Z., 2010, J COMPUTATIONAL INFO, V6, P2617
+   Yu T., 2005, INFORM SYSTEMS E BUS, V3, P103, DOI DOI 10.1007/S10257-005-0052-Z
+   Zeng LZ, 2004, IEEE T SOFTWARE ENG, V30, P311, DOI 10.1109/TSE.2004.11
+NR 41
+TC 1
+Z9 1
+U1 4
+U2 4
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2168-6750
+J9 IEEE T EMERG TOP COM
+JI IEEE Trans. Emerg. Top. Comput.
+PD OCT-DEC
+PY 2014
+VL 2
+IS 4
+BP 399
+EP 410
+DI 10.1109/TETC.2014.2316524
+PG 12
+WC Computer Science, Information Systems; Telecommunications
+SC Computer Science; Telecommunications
+GA V45VR
+UT WOS:000209844600001
+ER
+

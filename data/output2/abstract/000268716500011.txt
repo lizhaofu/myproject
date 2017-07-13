@@ -1,0 +1,1 @@
+scheduling angiogenic inhibitor optimal$$control objective maximize achievable$$tumor dynamical$$model evolution carry vasculature formulate optimal control compute gompertzian logistic$$model tumor growth optimal control gompertzian model typically segment control singular logistic$$model optimal control bang bang switching

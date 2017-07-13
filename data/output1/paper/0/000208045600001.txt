@@ -1,0 +1,58 @@
+PT J
+AU Tomasini, RM
+   Van Wassenhove, LN
+AF Tomasini, Rolando M.
+   Van Wassenhove, Luk N.
+TI From preparedness to partnerships: case study research on humanitarian
+   logistics
+SO INTERNATIONAL TRANSACTIONS IN OPERATIONAL RESEARCH
+LA English
+DT Article
+DE humanitarian supply chain; disaster relief; uncertainty; public private
+   partnerships
+AB Disasters are on the rise, more complex, and donor support is increasingly unpredictable. In response to this trend humanitarian agencies are looking for more efficient and effective solutions. This paper discusses the evolution of supply chain management in disaster relief and the role of new players like the private sector. It is based on research conducted by the Humanitarian Research Group at INSEAD.
+C1 [Tomasini, Rolando M.] INSEAD Humanitarian Res Grp, F-77305 Fontainebleau, France.
+   [Van Wassenhove, Luk N.] INSEAD, F-77305 Fontainebleau, France.
+   [Van Wassenhove, Luk N.] INSEAD Social Innovat Ctr, F-77305 Fontainebleau, France.
+RP Tomasini, RM (reprint author), INSEAD Humanitarian Res Grp, Blvd Constance, F-77305 Fontainebleau, France.
+EM Rolando.Tomasini@insead.edu; Luk.Van-Wassenhove@insead.edu
+CR Chomolier B, 2003, FORCED MIGRATION REV, V18, P15
+   GATIGNON A, 2008, N STAR FDN PAVING RO
+   Handfield R., 1999, INTRO SUPPLY CHAIN M
+   SAMII R, 2003, UNJLC AFGHANISTAN OP
+   SAMII R, 2005, FUELS HUMANITARIAN N
+   STAPLETON O, 2008, MED MALARIA VENTURE
+   STAPLETON O, 2008, GLOBAL IMPACT MANAGI
+   THOMAS A, 2004, FORCED MIGRATION REV, V21, P144
+   TOMASINI R, 2008, WFP LESOTHO BUILDING
+   Tomasini R., 2005, MANAGING INFORM HUMA
+   van Wassenhove L., 2004, GENETICALLY MODIFIED
+   Tomasini R., 2009, HUMANITARIAN LOGISTI
+   Tomasini R., 2008, HUMANITARIAN RESPONS
+   TOMASINI R, 2007, OVERCOMING BARRIERS
+   Tomasini R. M., 2003, COORDINATING DISASTE
+NR 15
+TC 50
+Z9 53
+U1 7
+U2 52
+PU WILEY-BLACKWELL
+PI MALDEN
+PA COMMERCE PLACE, 350 MAIN ST, MALDEN 02148, MA USA
+SN 0969-6016
+J9 INT T OPER RES
+JI Int. Trans. Oper. Res.
+PD SEP
+PY 2009
+VL 16
+IS 5
+BP 549
+EP 559
+DI 10.1111/j.1475-3995.2009.00697.x
+PG 11
+WC Management; Operations Research & Management Science
+SC Business & Economics; Operations Research & Management Science
+GA V19AP
+UT WOS:000208045600001
+ER
+

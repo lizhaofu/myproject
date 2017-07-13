@@ -1,0 +1,66 @@
+PT J
+AU Kim, K
+   Ra, I
+AF Kim, Kwanghoon
+   Ra, Ilkyeun
+TI e-Lollapalooza: A Process-Driven e-Business Service Integration System
+   for e-Logistics Services
+SO KSII TRANSACTIONS ON INTERNET AND INFORMATION SYSTEMS
+LA English
+DT Article
+DE e-Business Service Integration System; B2B Choreography and
+   Orchestration; e-Logistics
+AB There are two newly emerging research issues in the enterprise information systems literature. One is the scalability issue for rapidly increasing choreographic volumes between interrelated organizations. The other is the business intelligence issue for traceable and monitorable business processes and services interchanging e-Business data and applications across organizations. Based upon these emerging issues, through a functional extension of the ebXML technology we have developed a process-driven e-Business service integration (BSI) system, which is named 'e-Lollapalooza'. It consists of three major components - the Choreography Modeler coping with the process-driven collaboration issue, the Runtime & Monitoring Client for coping with the business intelligence issue and the EJB-based BSI Engine coping with the scalability issue. This paper particularly focuses on the e-Lollapalooza's development aspects for supporting the ebXML-based choreography and orchestration among the engaged organizations in a process-driven multiparty collaboration for e-Logistics and e-Commerce services. Here, it is fully deployed in an EJB-based middleware computing environment for e-Logistics process automation and B2B choreography.
+C1 [Kim, Kwanghoon] Kyonggi Univ, Dept Comp Sci, Gyeonggi Do 443760, South Korea.
+   [Ra, Ilkyeun] Univ Colorado, Dept Comp Sci & Engn, Denver, CO 80217 USA.
+RP Kim, K (reprint author), Kyonggi Univ, Dept Comp Sci, San 94-6 Yiui Dong, Gyeonggi Do 443760, South Korea.
+EM kwang@kgu.ac.kr; ikra@carbon.cudenver.edu
+RI RA, ILKYEUN/L-5956-2015
+FU Gyeonggi Province, South Korea [2007081-0]
+FX The Research was supported by the Contents Convergence Software Research
+   Center, 2007081-0, funded by the GRRC Program of Gyeonggi Province,
+   South Korea.
+CR DOGAC A, 2002, ACM SIGMOD INT C MAN
+   FOSDICK H, 1992, ENTERPRISE SYSTEM J
+   HAYAMI H, 2000, WORKFLOW HDB 2001
+   HWANG JG, 2002, P C KOREA INFORM SCI, V29
+   Kim K, 2005, LECT NOTES COMPUT SC, V3806, P669
+   Kim KH, 2005, LECT NOTES COMPUT SC, V3762, P485
+   Kim KH, 2001, INFORM SYST FRONT, V3, P339, DOI 10.1023/A:1011465626458
+   KIM KH, 1997, DEP COMPUTER SCI TEC
+   OH DK, 2002, P KOR SOC INT INF, V3, P348
+   OH DK, 2001, J KOREAN SOC INTERNE, V4
+   SIDDALINGAIAH M, 2001, OVERVIEW EBXML
+   SIM SS, 2002, P KOR DAT SOC OCT
+   *SUN MICR, 2000, JAVATM 2 ENT ED DEV
+   *UN CEFACT OASIS, 2001, EBXML REG SERV SPEC
+   *UN CEFACT OASIS, 2000, EN EL BUS EBML
+   *UN CEFACT OASIS, 2001, EBXML REG INF MOV
+   2000, ENTERPRISE JAVABEANS
+NR 17
+TC 2
+Z9 2
+U1 0
+U2 8
+PU KSII-KOR SOC INTERNET INFORMATION
+PI GANGNAM-GU
+PA KOR SCI & TECHNOL CTR, 409 ON 4TH FLR, MAIN BLDG, 635-4 YEOKSAM 1-DONG,
+   GANGNAM-GU, SEOUL 00000, SOUTH KOREA
+SN 1976-7277
+J9 KSII T INTERNET INF
+JI KSII Trans. Internet Inf. Syst.
+PD DEC 25
+PY 2007
+VL 1
+IS 1
+BP 33
+EP 51
+DI 10.3837/tiis.2007.01.003
+PG 19
+WC Computer Science, Information Systems; Telecommunications
+SC Computer Science; Telecommunications
+GA V06TE
+UT WOS:000207215100003
+ER
+
+

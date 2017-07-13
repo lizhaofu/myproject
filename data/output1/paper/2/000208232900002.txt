@@ -1,0 +1,59 @@
+PT J
+AU Arinaminpathy, N
+   McLean, AR
+AF Arinaminpathy, N.
+   McLean, A. R.
+TI Logistics of control for an influenza pandemic
+SO EPIDEMICS
+LA English
+DT Article
+DE Influenza, Human; Public Health; Antiviral Drugs; Mathematical Modelling
+AB Antiviral drugs will initially be the mainstay of pharmaceutical intervention in an influenza pandemic. Used primarily for therapeutic treatment, they can also lower transmission in the community. We use mathematical modelling to study the impact of different antiviral coverage strategies, with a limited stockpile. Aggressive coverage offers several advantages, even if this should exhaust the stockpile prematurely. However, where a sub-group of the population has a high mortality risk, a strategy to minimise deaths must be carefully balanced, and is not always in agreement with prioritising treatment for those at risk. We discuss implications for public health planning. (C) 2009 Elsevier Inc. All rights reserved.
+C1 [Arinaminpathy, N.; McLean, A. R.] Univ Oxford, Dept Zool, Oxford OX1 3PS, England.
+RP Arinaminpathy, N (reprint author), Univ Oxford, Dept Zool, S Parks Rd, Oxford OX1 3PS, England.
+EM nim.pathy@zoo.ox.ac.uk
+FU James Martin 21st Century School, at the University of Oxford
+FX NA gratefully acknowledges financial support for this work from the
+   James Martin 21st Century School, at the University of Oxford.
+CR Arinaminpathy N., 2007, J R SOC INTERFACE, V5, P33
+   Arino J, 2006, J R SOC INTERFACE, V3, P453, DOI 10.1098/rsif.2006.0112
+   Australian Department of Health and Ageing, 2006, AUSTR HLTH MAN PLAN
+   Beigel H, 2005, NEW ENGL J MED, V353, P1374
+   Ferguson NM, 2005, NATURE, V437, P209, DOI 10.1038/nature04017
+   Gani R, 2005, EMERG INFECT DIS, V11, P1355
+   Germann TC, 2006, P NATL ACAD SCI USA, V103, P5935, DOI 10.1073/pnas.0601266103
+   Lee J., 2007, EMERG INFECT DIS, V13, P449
+   Li KS, 2004, NATURE, V430, P209, DOI 10.1038/nature02746
+   Lipsitch M, 2007, PLOS MED, V4, P111, DOI 10.1371/journal.pmed.0040015
+   Treanor JJ, 2000, JAMA-J AM MED ASSOC, V283, P1016, DOI 10.1001/jama.283.8.1016
+   UK Health Depts, 2007, PANDC FLU NAT FRAM R
+   U. S. Department of Health and Human Services, 2005, HHS PAND INFL PLAN
+   Ward P, 2005, J ANTIMICROB CHEMOTH, V55, P5, DOI 10.1093/jac/dki018
+   WHO, 2007, CLIN MAN HUM INF AV
+   [Anonymous], 1960, REPORTS PUBLIC HLTH
+NR 16
+TC 2
+Z9 2
+U1 0
+U2 4
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1755-4365
+J9 EPIDEMICS-NETH
+JI Epidemics
+PD JUN
+PY 2009
+VL 1
+IS 2
+BP 83
+EP 88
+DI 10.1016/j.epidem.2009.04.001
+PG 6
+WC Infectious Diseases
+SC Infectious Diseases
+GA V21UQ
+UT WOS:000208232900002
+PM 21352754
+ER
+

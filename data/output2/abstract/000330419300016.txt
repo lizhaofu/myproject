@@ -1,0 +1,1 @@
+quasilinear parabolic parabolic$$keller segel system involve source term logistic$$type graphic nonnegative datum neumann boundary condition smooth bound domain omega subset phi psi suppose smooth positive function satisfy phi psi assume smooth constant framework prove smooth datum exist unique classical bound independent reserve

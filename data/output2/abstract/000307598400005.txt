@@ -1,0 +1,1 @@
+parameter log logistic$$distribution parameter estimate linear$$regression statistics estimate iterative exact$$log likelihood equation scale parameter maximum likelihood estimator mle modify estimate estimate explain

@@ -1,0 +1,1 @@
+parameter logistic$$model dose limit toxicity dlt event endpoint oncology trial model patient stay trial constraint maximum follow model accommodate late onset dlt onset dlt dose recommendation inform bayesian incorporate prior knowledge test dose recommendation simulation model operate characteristic maximum tolerate dose mtd

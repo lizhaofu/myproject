@@ -1,0 +1,1 @@
+quasilinear parabolic parabolic$$chemotaxis system nonlinear logistic$$source homogeneous$$neumann boundary condition smooth bound domain establish proper priori estimate prove diffusion function chemotaxis sensitivity function positive correspond boundary admit unique classical uniformly bound generalization cao

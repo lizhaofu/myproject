@@ -1,0 +1,45 @@
+PT J
+AU Weke, PGO
+AF Weke, Patrick G. O.
+TI Common Nearly Best Linear Estimates of Location and Scale Parameters:
+   Normal and Logistic Distributions
+SO DISCOVERY AND INNOVATION
+LA English
+DT Article
+DE Estimation; order statistics; unbiased and nearly unbiased estimators
+AB Common nearly best linear estimates of location and scale parameters of normal and logistic distributions, which are based on complete samples, are considered. Here, the population from which the samples are drawn is either normal or logistic population or a fusion of both distributions and the estimates are computed when it is not yet known which of the two populations (between the normal and logistic) is true. The problem discussed in this paper involves two possible population types in a given sample. Samples of sizes n=5,6,8,10 and are used to validate these estimates and a comparison of their variances is made with those of the best linear unbiased estimators (BLUEs) for normal and logistic distributions.
+C1 Univ Nairobi, Dept Math, Nairobi, Kenya.
+RP Weke, PGO (reprint author), Univ Nairobi, Dept Math, Nairobi, Kenya.
+EM pweke@uonbi.ac.ke
+CR Balakrishnan N, 1991, ORDER STAT INFERENCE
+   Blom G., 1958, STAT ESTIMATES TRANS
+   CHEW V, 1968, AM STAT, V22, P22, DOI 10.2307/2681799
+   David H.A., 1981, ORDER STAT
+   SARHAN AE, 1956, ANN MATH STAT, V27, P427, DOI 10.1214/aoms/1177728267
+   WEKE PGO, 2001, THESIS HARBIN I TECH
+   Yamauti Z, 1972, STAT TABLES FORMULAS
+NR 7
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ACAD SCIENCE PUBLISHERS
+PI NAIROBI
+PA PO BOX 14798, NAIROBI, 00000, KENYA
+SN 1015-079X
+J9 DISCOV INNOVAT
+JI Discov. Innov.
+PD JUN
+PY 2007
+VL 19
+IS 2
+BP 133
+EP 139
+PG 7
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA V90UJ
+UT WOS:000206136900010
+ER
+
+

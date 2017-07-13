@@ -1,0 +1,1 @@
+autonomous logistic$$type impulsive$$equation infinite delay autonomous sufficient condition guarantee permanence extend seifert reserve

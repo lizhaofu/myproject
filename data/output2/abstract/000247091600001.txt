@@ -1,0 +1,1 @@
+deal nonlinear$$system partial differential equation chemotaxis involve source term logistic$$type existence bound classical prove assumption space dimension exceed logistic damp existence mild condition correspond stationary$$regularity prove presence logistic damp nonzero equilibrium stationary$$system steady$$hand logistic term multiplicity bifurcation establish

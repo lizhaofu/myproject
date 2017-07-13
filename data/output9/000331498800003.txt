@@ -1,0 +1,1 @@
+deal quasilinear parabolic elliptic$$chemotaxis system logistic$$source homogeneous$$neumann boundary condition smooth bound domain positive$$diffusion function correspond boundary possess unique classical uniformly bound diffusion function positive$$diffusion function logistic damp mild prove existence finally assert constant equilibrium logistic$$source reserve

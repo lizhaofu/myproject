@@ -1,0 +1,1 @@
+model disease rumor spread phenomenon behavior individual population coarse$$description expect system behavior type model close coarse$$approximation correspond agent base system logistic$$behavior propagation network connect graph doubly stochastic$$edge weight connect graph symmetric$$edge weight appropriateness discrete logistic$$approximation heterogeneous$$graph topology

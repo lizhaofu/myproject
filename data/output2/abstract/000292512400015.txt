@@ -1,0 +1,1 @@
+local$$saddle bifurcation quasiperiodically force interval map rigorous$$description saddle bifurcation periodic graph quasiperiodically force logistic$$map force amplitude

@@ -1,0 +1,1 @@
+model species confine bound region species diffuse slowly follow logistic$$law habitat flux population boundary habitat basically theoretical$$model depend parameter model

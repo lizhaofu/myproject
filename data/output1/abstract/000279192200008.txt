@@ -1,0 +1,1 @@
+periodic species logistic$$system impulsive$$diffusion patch iterative sufficient condition existence uniqueness attractivity positive periodic$$extinction species system establish numerical simulation feasibility

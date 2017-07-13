@@ -1,0 +1,1 @@
+deal local$$stability hopf bifurcation chaos parameterize logistic differential system delay halanay inequality local$$stability logistic differential system stability bifurcation periodic$$direction hopf bifurcation normal$$form theory center manifold theorem nonlinear$$behavior parameterize logistic differential system parameter delay detect numerical reserve

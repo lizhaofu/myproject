@@ -1,0 +1,1 @@
+logistic$$competition model stability bifurcation model compute invariant manifold centre manifold bifurcation saddle period double bifurcation route chaos exhibit numerical simulation

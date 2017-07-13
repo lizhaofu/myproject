@@ -1,0 +1,1 @@
+article address logistics districting company operation consist pickup delivery package region service region divide vehicle depart central$$depot design optimize criterion compact$$shape workload content mathematical$$formulation multus heuristic procedure solve procedure combine element metaheuristic tabu grasp experimental$$comparison cplex

@@ -1,0 +1,95 @@
+PT J
+AU Islam, DMZ
+   Zunder, TH
+AF Islam, Dewan Md Zahurul
+   Zunder, Thomas H.
+TI The necessity for a new quality standard for freight transport and
+   logistics in Europe
+SO EUROPEAN TRANSPORT RESEARCH REVIEW
+LA English
+DT Article
+DE Freight; Logistics; Policy; Europe; Quality; Delphi; International
+   standards; Government intervention
+AB Purpose The objectives of this paper are to: collect and analyse existing European international standards for freight transport and logistics quality; consult with industry actors and stakeholders in order to ascertain to what extent these quality standards (or quality labels) drive freight transport and logistics quality in practice and ascertain whether there is a need for a new or modified freight transport and logistics standard. The ultimate objective is to examine the extent to which new or existing, specialised, quality standards are useful as policy tools to improve the performance of freight transport and logistics service in Europe.
+   Methodology A multi-technique qualitative approach was applied consisting of desktop research, telephone interviews, two rounds of Delphi study and validation by an expert focus workshop.
+   Findings The research identified transport logistics relevant standards and analysed them, in particular the following six specialised freight transport and logistics standards (EN 13011: 2000, CEN/TR 14310: 2002, EN 13876: 2002, EN 12507: 2005, EN ISO 9001: 2000, EN 12798: 2006, and EN 15696: 2007) and three key ISO management standards: ISO 9001, ISO 14001 and ISO 28000. The research found that the (six) specialised freight transport and logistics standards are poorly known, but that ISO 9001 and ISO 140001 are known and are capable of managing logistics quality. It also found that ISO 28000 is being adopted and that quality is not solely derived from standards
+   Conclusion Based on the research the following recommendations for policy makers are made: no market demand for new standards exists; a totally free market is not seen as a quality-improving framework; where fair and free competition is not present, or is distorted, government intervention may be appropriate; the internalisation of externalities is seen as a state role; and that logistics quality is better determined between customer and provider.
+   Applicability of the research findings The findings are useful and applicable to European policy makers and service users and the research findings may not be applicable worldwide. The paper contributes to the field of freight transport and logistics quality standards by examining the existing specialised standards, their usage and the need or otherwise for new policy initiatives by the European Union.
+C1 [Islam, Dewan Md Zahurul; Zunder, Thomas H.] Newcastle Univ, Freight Logist Res Grp, NewRail Newcastle Ctr Railway Res, Newcastle Upon Tyne NE1 7RU, Tyne & Wear, England.
+RP Islam, DMZ (reprint author), Newcastle Univ, Freight Logist Res Grp, NewRail Newcastle Ctr Railway Res, Newcastle Upon Tyne NE1 7RU, Tyne & Wear, England.
+EM dewan.islam@newcastle.ac.uk
+OI Islam, Dr Dewan Md Zahurul/0000-0001-6570-4701; Zunder,
+   Thomas/0000-0002-1865-6548
+FU European Commission
+FX The need for this research was identified by the EU Freight Transport
+   Logistics Action Plan [18] and published as an open competitive call
+   under the Framework Programme Seven of the EU. The proposals were
+   evaluated independently. The European Commission funded the wider BE
+   LOGIC project, negotiated and agreed a Description of Work for the whole
+   of the project, of which this research is part, approved the general
+   scope of the study design and had no role in the collection, analysis,
+   and interpretation of data, in the writing of the report, nor in the
+   decision to submit the paper for publication.
+CR Abdel-Fattah N, 1997, THESIS U PLYMOUTH UK, P1
+   Abdel-Fattah N, 1999, ROAD FREIGHT PRIVATI, P1
+   Ariel A, 1989, MARIT POLICY MANAG, V16, P305, DOI DOI 10.1080/03088838900000050
+   BARDECKI MJ, 1984, TECHNOL FORECAST SOC, V25, P281, DOI 10.1016/0040-1625(84)90006-4
+   BestLog, 2011, STAT ART REP 3, P28
+   BestLog, 2006, WP7 DEV LAB CERT, P6
+   Bureau Veritas, 2012, ISO 28000 CERT
+   CEN-European Committee for Standardisation, 2012, TRANSP LOG SERV PUBL
+   CER-UIC-CIT, 2003, CER GEN ASS ROM JUL
+   CHAFFIN WW, 1980, TECHNOL FORECAST SOC, V16, P67, DOI 10.1016/0040-1625(80)90074-8
+   CLARK A, 1982, EVALUATION REV, V6, P79, DOI 10.1177/0193841X8200600106
+   DAJANI JS, 1979, TECHNOL FORECAST SOC, V13, P83, DOI 10.1016/0040-1625(79)90007-6
+   Dalkey NC, 1969, DELPHI METHOD EXPT S
+   ERFFMEYER RC, 1986, GROUP ORGAN STUD, V11, P120, DOI 10.1177/105960118601100110
+   European Commission, 2006, COM2006314 EUR COMM
+   European Commission, 2001, WHIT PAP EUR TRANSP
+   European Comission, 2007, FREIGHT TRANSP LOG A
+   Fabbe-Costes N, 2006, INT J PHYS DISTR LOG, V36, P92
+   Green H., 1990, Tourism Management, V11, P111, DOI 10.1016/0261-5177(90)90026-6
+   GS1, 2008, STAND INT LOG LAB ST
+   GUSTAFSON DH, 1973, ORGAN BEHAV HUM PERF, V9, P280, DOI 10.1016/0030-5073(73)90052-4
+   Ho SKM, 1995, INT J PHISICAL DISTR, V25, P51, DOI DOI 10.1108/09600039510080135
+   Hwang K. S., 2004, THESIS U PLYMOUTH
+   Islam DMZ, 2006, TRANSPORT REV, V26, P571, DOI 10.1080/01441640600576902
+   The ISO14000 Environmental Management Group, 2002, 14000 ISO ENV MAN GR
+   Kapoor P, 1987, THESIS U PLYMOUTH UK, P1
+   Liu XH, 2010, INT J PHYS DISTR LOG, V40, P847, DOI 10.1108/09600031011093232
+   McKinnon A, 2000, EUROPEAN LOGISTICAL, P1
+   Morash E. A., 1997, INT J PHYS DISTRIB, V27, P350, DOI 10.1108/09600039710175921
+   NELMS KR, 1985, TECHNOL FORECAST SOC, V28, P43, DOI 10.1016/0040-1625(85)90072-1
+   Padilla C, 2006, AGR TEC, V67, P300
+   Saldanha J., 2002, MARIT POLICY MANAG, V29, P77, DOI [10.1080/03088830110067339, DOI 10.1080/03088830110067339]
+   Sohal AS, 1999, INT J PHYS DISTRIB, V29, P267, DOI 10.1108/09600039910273984
+   Stuter L., 1998, USING DELPHI TECHNIQ, P1
+   Transport for London, 2014, FREIGHT OP REC SCHEM
+   UIC-Freight Department, 2009, GUID QUAL RAIL FREIG
+   Wellington J., 2003, ED RES CONT ISSUES P, P15
+NR 37
+TC 0
+Z9 0
+U1 5
+U2 6
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 1867-0717
+EI 1866-8887
+J9 EUR TRANSP RES REV
+JI Eur. Transp. Res. Rev.
+PD DEC
+PY 2014
+VL 6
+IS 4
+BP 397
+EP 410
+DI 10.1007/s12544-014-0141-5
+PG 14
+WC Transportation; Transportation Science & Technology
+SC Transportation
+GA V44DH
+UT WOS:000209729200005
+ER
+

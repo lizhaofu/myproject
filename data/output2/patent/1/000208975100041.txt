@@ -1,0 +1,42 @@
+PT J
+AU Shibata, T
+AF Shibata, Tetsutaro
+TI ASYMPTOTIC EXPANSION FORMULAS FOR THE MAXIMUM OF SOLUTIONS TO DIFFUSIVE
+   LOGISTIC EQUATIONS
+SO ELECTRONIC JOURNAL OF DIFFERENTIAL EQUATIONS
+LA English
+DT Article
+DE Logistic equation; L-infinity-norm of solutions
+AB We consider the nonlinear eigenvalue problems
+   -u ''(t) + u(t)(p) = lambda u(t),
+   u(t) > 0, t is an element of I := (0, 1), u(0) = u(1) = 0,
+   where p > 1 is a constant and lambda > 0 is a parameter. This equation is well known as the original logistic equation of population dynamics when p = 2. We establish the precise asymptotic formula for L-infinity-norm of the solution u lambda as lambda -> infinity when p = 2 and p = 5.
+C1 Hiroshima Univ, Grad Sch Engn, Dept Appl Math, Higashihiroshima 7398527, Japan.
+RP Shibata, T (reprint author), Hiroshima Univ, Grad Sch Engn, Dept Appl Math, Higashihiroshima 7398527, Japan.
+EM shibata@amath.hiroshima-u.ac.jp
+CR BERESTYCKI H, 1981, J FUNCT ANAL, V40, P1, DOI 10.1016/0022-1236(81)90069-0
+   CARLSON BC, 1985, SIAM J MATH ANAL, V16, P1072, DOI 10.1137/0516080
+   Gradshteyn I. S., 1994, TABLE INTEGRALS SERI
+   Shibata T., 2005, ELECT J DIFFERENTIAL, V2005, P1
+   Shibata T, 2008, P AM MATH SOC, V136, P2547, DOI 10.1090/S0002-9939-08-09311-8
+NR 5
+TC 0
+Z9 0
+U1 0
+U2 0
+PU TEXAS STATE UNIV
+PI SAN MARCOS
+PA 601 UNIVERSTITY DRIVE, SAN MARCOS, TX 78666 USA
+SN 1072-6691
+J9 ELECTRON J DIFFER EQ
+JI Electron. J. Differ. Equ.
+PY 2008
+AR 161
+PG 7
+WC Mathematics, Applied; Mathematics
+SC Mathematics
+GA V32UC
+UT WOS:000208975100041
+ER
+
+

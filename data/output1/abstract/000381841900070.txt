@@ -1,0 +1,1 @@
+dynamics stochastic nonautonomous$$sir epidemic$$model population growth subject logistic$$growth absence disease periodic$$system sufficient condition persistence epidemic$$persistence suitable$$lyapunov function nontrivial positive periodic random perturbation beneficial$$formate periodic stochastic nonautonomous$$sir epidemic$$model reserve

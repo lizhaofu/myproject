@@ -1,0 +1,1 @@
+reaction diffusion model logistic$$type growth nonlocal$$delay dirichlet boundary condition combine delay nonlocal spatial$$dispersal realistic$$modeling complex spatiotemporal behavior stability positive spatially nonhomogeneous positive$$equilibrium associate hopf bifurcation equilibrium bifurcation spatially homogeneous$$dispersal kernel reserve

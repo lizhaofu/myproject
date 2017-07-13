@@ -1,0 +1,1 @@
+close loop vehicle deliver product consumer pick product life assume vehicle location minimize distance location forward reverse flow mixed$$integer programming model milp variant variable$$neighbourhood vehicle route step algorithm base variant solve optimally matlab effectiveness model evaluate numerical

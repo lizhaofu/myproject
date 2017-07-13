@@ -1,0 +1,1 @@
+parameter beta generalize logistic$$distribution compound beta generalize logistic distribution model extend distribution shape flexible specially skewness tail weight extra$$shape parameter expansion moment quantile function estimation parameter maximum likelihood datum flexibility potentiality distribution

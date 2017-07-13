@@ -1,0 +1,1 @@
+delay logistic$$equation model feedback control interval map associate system derive calculate lyapunov exponent stable$$orbit chaotic$$phenomenon computer simulation identify parameter control dynamics reserve

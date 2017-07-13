@@ -1,0 +1,1 @@
+behavior logistic$$type equation modeling motion equation account birth death logistic nonlocal$$motion nonlocal$$darcy law regular$$kernel periodic$$framework posedness derive behavior lack asymptotic$$compactness system overcome measure theory conclude semiflow converge measure topology

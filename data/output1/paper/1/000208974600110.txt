@@ -1,0 +1,52 @@
+PT J
+AU Li, YK
+   Chen, Q
+AF Li, Yongkun
+   Chen, Qian
+TI POSITIVE PERIODIC SOLUTIONS OF NEUTRAL LOGISTIC DIFFERENCE EQUATIONS
+   WITH MULTIPLE DELAYS
+SO ELECTRONIC JOURNAL OF DIFFERENTIAL EQUATIONS
+LA English
+DT Article
+DE Positive periodic solution; neutral functional difference equation;
+   strict-set-contraction
+AB Using a fixed point theorem of strict-set-contraction, we some established the existence of positive periodic solutions for the neutral logistic difference equation, with multiple delays,
+   [GRAPHICS]
+C1 [Li, Yongkun; Chen, Qian] Yunnan Univ, Dept Math, Kunming 650091, Yunnan, Peoples R China.
+RP Li, YK (reprint author), Yunnan Univ, Dept Math, Kunming 650091, Yunnan, Peoples R China.
+EM yklie@ynu.edu.cn
+FU National Natural Sciences Foundation of China
+FX Supported by the National Natural Sciences Foundation of China.
+CR CAC NP, 1979, J MATH ANAL APPL, V71, P547, DOI 10.1016/0022-247X(79)90208-7
+   Gaines R. E., 1977, LECT NOTES MATH, V586
+   GOPALSAMY K, 1991, GLASGOW MATH J, V33, P281
+   Gopalsamy K., 1988, DYNAMICS STABILITY S, V2, P183, DOI 10.1080/02681118808806037
+   Guo D., 1984, ADV MATH, V13, P294
+   KUANG Y, 1991, J MATH ANAL APPL, V156, P293, DOI 10.1016/0022-247X(91)90398-J
+   Kuang Y., 1993, DELAY DIFFERENTIAL E
+   Lu SP, 2004, APPL MATH COMPUT, V153, P885, DOI 10.1016/S0096-3003(03)00685-4
+   Lu SP, 2003, J MATH ANAL APPL, V280, P321, DOI 10.1016/S0022-247X(03)00049-0
+   Pielou E., 1977, MATH ECOLOGY
+   Yang ZH, 2005, J COMPUT APPL MATH, V174, P179, DOI 10.1016/j.cam.2004.04.007
+   Yang ZH, 2004, NONLINEAR ANAL-THEOR, V59, P1013, DOI 10.1016/j.na.2004.08.008
+   Yang ZH, 2003, APPL MATH COMPUT, V142, P123, DOI 10.1016/S0096-3003(02)00288-6
+NR 13
+TC 1
+Z9 1
+U1 0
+U2 0
+PU TEXAS STATE UNIV
+PI SAN MARCOS
+PA 601 UNIVERSTITY DRIVE, SAN MARCOS, TX 78666 USA
+SN 1072-6691
+J9 ELECTRON J DIFFER EQ
+JI Electron. J. Differ. Equ.
+PY 2007
+AR 110
+PG 10
+WC Mathematics, Applied; Mathematics
+SC Mathematics
+GA V32TX
+UT WOS:000208974600110
+ER
+

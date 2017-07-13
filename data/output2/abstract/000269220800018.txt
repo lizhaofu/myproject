@@ -1,0 +1,1 @@
+nonlocal stationary nonlinear$$lambda domain omega dirichlet boundary condition omega kernel involve convolution integral$$smooth compactly nonnegative$$function unit integral$$weight assume nonnegative vanish smooth subdomain omega omega positive vanish subdomain completely issue existence uniqueness positive$$behavior respect parameter lambda

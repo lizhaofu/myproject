@@ -1,0 +1,1 @@
+asymptotic normal$$estimation location parameter scale parameter sample sample variance logistic$$distribution asymptotic$$confidence estimator

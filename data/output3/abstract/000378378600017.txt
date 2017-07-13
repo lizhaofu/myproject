@@ -1,0 +1,1 @@
+parabolic$$chemotaxis system delta chi del del element omega delta element omega homogeneous$$neumann boundary condition arbitrary$$smooth bound domain omega subset chi dimension establish existence boundedness classical correspond boundary chi satisfy explicit condition chi element system steady tend infinity

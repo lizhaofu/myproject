@@ -1,0 +1,1 @@
+lowpass filter insert logistic$$map stabilize system parameter stability filter encounter special quadratic$$map hyperchao parameter filter map map delay variable simplest system

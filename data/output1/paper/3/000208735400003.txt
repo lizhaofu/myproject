@@ -1,0 +1,65 @@
+PT J
+AU da Silva, AK
+   Botter, RC
+AF da Silva, A. K.
+   Botter, R. C.
+TI Method for assessing and selecting discrete event simulation software
+   applied to the analysis of logistic systems
+SO JOURNAL OF SIMULATION
+LA English
+DT Article
+DE discrete event simulation; logistics; selection; criteria; software
+AB Discrete event simulation is one of the most powerful tools available to the analysis of several problem domains; among them, logistic systems field. This fact interested many specialized companies to develop software, which led to different options of price and characteristics. In this context, it has been identified a growing need for a method to selecting discrete event simulation focused in logistic problems. To fill in this gap, a set of criteria that address some of the specific needs for the development of models applied to the analysis of logistic systems was proposed. These criteria formed the base of the method that has embodied the best characteristics of the works identified in the Literature. Software such as Arena, ProModel and @Risk, widely used in Polytechnic School of the University of Sao Paulo, Brazil, were evaluated for presentation of practical applicability of the proposed method.
+C1 [da Silva, A. K.; Botter, R. C.] Univ Sao Paulo, BR-05508970 Sao Paulo, Brazil.
+RP da Silva, AK (reprint author), Univ Sao Paulo, Logist Syst Dept, Ave Prof Mello Moraes 2231, BR-05508970 Sao Paulo, Brazil.
+EM andre@aksilva.com
+RI Botter, Rui/D-1771-2014
+OI Botter, Rui/0000-0003-4399-778X
+CR Baird SP, 1994, P WIN SIM C ARL VA, P527, DOI 10.1109/WSC.1994.717303
+   Banks J, 1998, HDB SIMULATION PRINC
+   Banks J., 1996, DISCRETE EVENT SYSTE
+   Banks J., 1991, P 1991 WINT SIM C, P15
+   Chick S. E., 2006, J SIMUL, V1, P21, DOI 10.1057/palgrave.jos.4250006
+   Davis L., 1994, Integrated Manufacturing Systems, V5, P23, DOI 10.1108/09576069410050314
+   Elliott M, 2000, IIE SOLUTIONS, V32, P55
+   Freitas Filho PJ, 2001, INTRO MODELAGEM SIMU
+   Harrell CR, 1997, SYSTEM IMPROVEMENT U
+   Hlupic V, 1995, P WSC 95 WINT SIM C, P720, DOI 10.1145/224401.224718
+   Kelton WD, 2004, SIMULATION ARENA
+   Law A. M., 2000, SIMULATION MODELING
+   Morita H, 1998, THESIS U SAO PAULO
+   Nikoukaran J, 1998, P 1998 WINT SIM C, P399
+   Palisade Corporation, 2005, GUID US RISK
+   PIDD M., 2006, J SIMUL, V1, P7, DOI DOI 10.1057/PALGRAVE.JOS.4250004
+   Saaty T. L., 1980, ANAL HIERARCHY PROCE
+   Shannon RE, 1992, P 1992 WINT SIM C SA, P65, DOI 10.1145/167293.167302
+   Swain JJ, 2005, ORMS TODAY, V32
+   Taylor SJE, 2006, J SIMUL, V1, P1, DOI 10.1057/palgrave.jos.4250002
+   Tewoldeberhan TW, 2002, PROCEEDINGS OF THE 2002 WINTER SIMULATION CONFERENCE, VOLS 1 AND 2, P67, DOI 10.1109/WSC.2002.1172870
+   TI ren, 2002, P 2002 SUMM COMP SIM, P3
+NR 22
+TC 0
+Z9 0
+U1 1
+U2 6
+PU PALGRAVE MACMILLAN LTD
+PI BASINGSTOKE
+PA BRUNEL RD BLDG, HOUNDMILLS, BASINGSTOKE RG21 6XS, HANTS, ENGLAND
+SN 1747-7778
+J9 J SIMUL
+JI J. Simul.
+PD JUN
+PY 2009
+VL 3
+IS 2
+BP 95
+EP 106
+DI 10.1057/jos.2008.21
+PG 12
+WC Computer Science, Interdisciplinary Applications; Operations Research &
+   Management Science
+SC Computer Science; Operations Research & Management Science
+GA V29FX
+UT WOS:000208735400003
+ER
+

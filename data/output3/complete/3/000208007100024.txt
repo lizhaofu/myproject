@@ -1,0 +1,32 @@
+PT J
+AU Cross, CS
+AF Cross, Candi S.
+TI Passage to a museum near you Fine art tests logistics
+SO INDUSTRIAL ENGINEER
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU INST INDUSTRIAL ENGINEERS
+PI NORCROSS
+PA 3577 PARKWAY LANE, STE 200, NORCROSS, GA 30092 USA
+SN 1542-894X
+J9 IND ENG
+JI Ind. Eng
+PD AUG
+PY 2007
+VL 39
+IS 8
+BP 34
+EP 35
+PG 2
+WC Engineering, Industrial
+SC Engineering
+GA V18LU
+UT WOS:000208007100024
+ER
+
+

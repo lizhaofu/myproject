@@ -1,0 +1,1 @@
+classification base label unlabeled datum datum complex semi supervise logistic discriminant$$model gaussian expansion unknown parameter logistic$$model estimate regularization technique algorithm selection adjust parameter derive model selection criterion bayesian viewpoint numerical$$effectiveness modeling procedure
